@@ -1,37 +1,5 @@
 [
   {
-    "id": "EU-DE-99201",
-    "title": "CNC Machinist & Heavy Equipment Operator",
-    "employer": "Škoda Auto a.s.",
-    "employerRegistryId": "CZ00177041",
-    "location": "Mladá Boleslav, Czech Republic",
-    "countryCode": "CZ",
-    "category": "Skilled Trades & Technical",
-    "employmentType": "Direct Hire / Full-Time",
-    "salary": {
-      "amountEUR": 2800,
-      "estimatedNetPHP": 175000,
-      "period": "Monthly"
-    },
-    "requirements": {
-      "minExperienceYears": 3,
-      "education": "High School / TESDA NCII Certified",
-      "languageRequired": "English B1 or Czech A2"
-    },
-    "costsAndFees": {
-      "placementFee": "Zero Placement Fee (Employer Pays)",
-      "estimatedUpfrontPHP": 18000,
-      "upfrontExpensesBreakdown": "DFA Apostille, Medical Exam, NBI Clearance"
-    },
-    "verificationStatus": {
-      "isVerifiedEmployer": true,
-      "dmwDirectHireCompliant": true,
-      "viesVerified": true
-    },
-    "applyUrl": "https://www.skoda-kariera.cz/",
-    "postedDate": "2026-10-09"
-  },
-  {
     "id": "technical-product-manager-452575",
     "title": "Technical Product Manager",
     "employer": "Verve",
@@ -1071,7 +1039,7 @@
     "employer": "Enpal",
     "location": "Berlin",
     "category": "Headquarter Growth",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/prozessmanagerin-berlin-155679",
+    "applyUrl": "https://www.enpal.de/careers",
     "isVerifiedEmployer": true,
     "source": "Verified European Feed",
     "postedDate": "2026-10-09"
@@ -1082,7 +1050,7 @@
     "employer": "Enpal",
     "location": "Berlin",
     "category": "Installation PV",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/werkstudentin-booking-managerin-berlin-47630",
+    "applyUrl": "https://www.enpal.de/careers",
     "isVerifiedEmployer": true,
     "source": "Verified European Feed",
     "postedDate": "2026-10-09"
@@ -1093,7 +1061,7 @@
     "employer": "Enpal",
     "location": "DE Remote",
     "category": "Installation PV",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/operations-managerin-baustellen-berlin-94048",
+    "applyUrl": "https://www.enpal.de/careers",
     "isVerifiedEmployer": true,
     "source": "Verified European Feed",
     "postedDate": "2026-10-09"
@@ -1104,7 +1072,7 @@
     "employer": "Enpal",
     "location": "Berlin",
     "category": "Headquarter Growth",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/expert-technical-accounting-berlin-203564",
+    "applyUrl": "https://www.enpal.de/careers",
     "isVerifiedEmployer": true,
     "source": "Verified European Feed",
     "postedDate": "2026-10-09"
@@ -1115,7 +1083,7 @@
     "employer": "Enpal",
     "location": "Remote",
     "category": "Installation PV",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/remote-ehs-managerin-92366",
+    "applyUrl": "https://www.enpal.de/careers",
     "isVerifiedEmployer": true,
     "source": "Verified European Feed",
     "postedDate": "2026-10-09"
@@ -1126,7 +1094,7 @@
     "employer": "Enpal",
     "location": "Berlin",
     "category": "Headquarter Growth",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/senior-accountant-general-ledger-hgb-bilanzbuchhalterin-berlin-280599",
+    "applyUrl": "https://www.enpal.de/careers",
     "isVerifiedEmployer": true,
     "source": "Verified European Feed",
     "postedDate": "2026-10-09"

@@ -1,5 +1,37 @@
 [
   {
+    "id": "EU-DE-99201",
+    "title": "CNC Machinist & Heavy Equipment Operator",
+    "employer": "Škoda Auto a.s.",
+    "employerRegistryId": "CZ00177041",
+    "location": "Mladá Boleslav, Czech Republic",
+    "countryCode": "CZ",
+    "category": "Skilled Trades & Technical",
+    "employmentType": "Direct Hire / Full-Time",
+    "salary": {
+      "amountEUR": 2800,
+      "estimatedNetPHP": 175000,
+      "period": "Monthly"
+    },
+    "requirements": {
+      "minExperienceYears": 3,
+      "education": "High School / TESDA NCII Certified",
+      "languageRequired": "English B1 or Czech A2"
+    },
+    "costsAndFees": {
+      "placementFee": "Zero Placement Fee (Employer Pays)",
+      "estimatedUpfrontPHP": 18000,
+      "upfrontExpensesBreakdown": "DFA Apostille, Medical Exam, NBI Clearance"
+    },
+    "verificationStatus": {
+      "isVerifiedEmployer": true,
+      "dmwDirectHireCompliant": true,
+      "viesVerified": true
+    },
+    "applyUrl": "https://www.skoda-kariera.cz/",
+    "postedDate": "2026-10-09"
+  },
+  {
     "id": "technical-product-manager-452575",
     "title": "Technical Product Manager",
     "employer": "Verve",

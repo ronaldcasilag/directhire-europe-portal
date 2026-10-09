@@ -1,12 +1,10 @@
 import fs from 'fs';
 
-// Rate conversion EUR to PHP
 const EUR_TO_PHP = 62.5;
 
 async function runAggregator() {
-  console.log("Starting multi-region direct-hire job aggregation (Germany & Poland)...");
+  console.log("Starting global direct-hire job aggregation (UK, New Zealand, Germany, Poland, Czech Republic)...");
 
-  // Load existing jobs
   let existingJobs = [];
   try {
     const jobsRaw = fs.readFileSync('./jobs.json', 'utf8');
@@ -15,8 +13,46 @@ async function runAggregator() {
     console.log("No existing jobs found, initializing fresh dataset.");
   }
 
-  // Automated multi-country pipeline payloads for Germany and Poland
+  // Expanded global direct-hire payloads including UK and New Zealand
   const incomingScrapedJobs = [
+    {
+      id: "EU-UK-55921",
+      title: "Staff Nurse - Emergency & Acute Care",
+      employer: "NHS Trust London",
+      employerRegistryId: "UK-NHS-88192",
+      location: "London, United Kingdom",
+      countryCode: "GB",
+      occupationalTier: "Tier 3: Healthcare Professionals",
+      opportunityScore: 9.6,
+      category: "Healthcare & Nursing",
+      employmentType: "Direct Hire / Full-Time",
+      amountEUR: 3800, // Converted equivalent base
+      minExperienceYears: 2,
+      education: "BS Nursing + Active PRC License",
+      credentials: ["PRC License", "IELTS Academic / OET", "NMC CBT Passed"],
+      languageRequired: "English Native/Advanced (IELTS 7.0+)",
+      applyUrl: "https://www.jobs.nhs.uk/",
+      postedDate: new Date().toISOString().split('T')[0]
+    },
+    {
+      id: "EU-NZ-77410",
+      title: "Senior Heavy Diesel Mechanic & Technician",
+      employer: " Gough Gough & Hamer Ltd",
+      employerRegistryId: "NZ-94290384",
+      location: "Auckland, New Zealand",
+      countryCode: "NZ",
+      occupationalTier: "Tier 2: High-Value Skilled Trades",
+      opportunityScore: 9.2,
+      category: "Skilled Trades & Industrial Maintenance",
+      employmentType: "Direct Hire / Full-Time",
+      amountEUR: 4100,
+      minExperienceYears: 4,
+      education: "Vocational Diploma / TESDA NC II Automotive",
+      credentials: ["TESDA NC II Automotive", "Certified Heavy Plant Experience"],
+      languageRequired: "English B2 (Conversational & Technical)",
+      applyUrl: "https://www.seek.co.nz/",
+      postedDate: new Date().toISOString().split('T')[0]
+    },
     {
       id: "EU-DE-10293",
       title: "Registered Nurse - Critical Care & ICU",
@@ -60,8 +96,8 @@ async function runAggregator() {
       title: "CNC Machinist & Automation Operator",
       employer: "Škoda Auto a.s.",
       employerRegistryId: "CZ00177041",
-      location: "Mladá Boleslav, Czech Republic / Germany Border Hub",
-      countryCode: "DE",
+      location: "Mladá Boleslav, Czech Republic",
+      countryCode: "CZ",
       occupationalTier: "Tier 2: High-Value Skilled Trades",
       opportunityScore: 9.0,
       category: "Skilled Trades & Industrial Maintenance",
@@ -76,7 +112,6 @@ async function runAggregator() {
     }
   ];
 
-  // Format and normalize incoming listings
   const formattedJobs = incomingScrapedJobs.map(job => ({
     id: job.id,
     title: job.title,
@@ -101,7 +136,7 @@ async function runAggregator() {
     },
     costsAndFees: {
       placementFee: "Zero Placement Fee (Employer Covered)",
-      estimatedUpfrontPHP: 16000,
+      estimatedUpfrontPHP: 18000,
       upfrontExpensesBreakdown: "DFA Apostille, Medical Exam, NBI Clearance"
     },
     verificationStatus: {
@@ -113,12 +148,11 @@ async function runAggregator() {
     postedDate: job.postedDate
   }));
 
-  // Merge with existing list and deduplicate by ID
   const combinedJobs = [...formattedJobs, ...existingJobs];
   const uniqueJobs = Array.from(new Map(combinedJobs.map(item => [item.id, item])).values());
 
   fs.writeFileSync('./jobs.json', JSON.stringify(uniqueJobs, null, 2));
-  console.log(`Successfully updated jobs.json with Germany & Poland expansion. Total active listings: ${uniqueJobs.length}`);
+  console.log(`Successfully updated jobs.json with UK & NZ expansion. Total active listings: ${uniqueJobs.length}`);
 }
 
 runAggregator();

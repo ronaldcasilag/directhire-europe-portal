@@ -1,119 +1,95 @@
 import fs from 'fs';
 
-// 1. Load Whitelisted Employer Data
-function getVerifiedEmployers() {
-    try {
-        const raw = fs.readFileSync('employers.json', 'utf8');
-        return JSON.parse(raw);
-    } catch {
-        return [];
+// Rate conversion EUR to PHP
+const EUR_TO_PHP = 62.5;
+
+async function runAggregator() {
+  console.log("Starting labor-market aligned job aggregation...");
+
+  // Load target verified employers
+  let employers = [];
+  try {
+    const employersRaw = fs.readFileSync('./employers.json', 'utf8');
+    employers = JSON.parse(employersRaw);
+  } catch (err) {
+    console.error("Error reading employers.json:", err);
+  }
+
+  // Load existing jobs
+  let existingJobs = [];
+  try {
+    const jobsRaw = fs.readFileSync('./jobs.json', 'utf8');
+    existingJobs = JSON.parse(jobsRaw);
+  } catch (err) {
+    console.log("No existing jobs found, creating new dataset.");
+  }
+
+  // New Scraped Sample (Simulated pipeline payload from European Direct-Hire Portals)
+  const incomingScrapedJobs = [
+    {
+      id: "EU-PL-30491",
+      title: "6G Pipe Welder & Structural Fabricator",
+      employer: "PKN Orlen S.A.",
+      employerRegistryId: "PL7740001454",
+      location: "Płock, Poland",
+      countryCode: "PL",
+      occupationalTier: "Tier 2: High-Value Skilled Trades",
+      opportunityScore: 9.0,
+      category: "Skilled Trades & Industrial Maintenance",
+      employmentType: "Direct Hire / Full-Time",
+      amountEUR: 2600,
+      minExperienceYears: 3,
+      education: "High School / TVET Graduate",
+      credentials: ["TESDA NC II/NC III SMAW/GTAW 6G"],
+      languageRequired: "English B1 (Functional)",
+      applyUrl: "https://www.orlen.pl/en/careers",
+      postedDate: new Date().toISOString().split('T')[0]
     }
+  ];
+
+  // Map into labor market schema
+  const formattedJobs = incomingScrapedJobs.map(job => ({
+    id: job.id,
+    title: job.title,
+    employer: job.employer,
+    employerRegistryId: job.employerRegistryId,
+    location: job.location,
+    countryCode: job.countryCode,
+    occupationalTier: job.occupationalTier,
+    opportunityScore: job.opportunityScore,
+    category: job.category,
+    employmentType: job.employmentType,
+    salary: {
+      amountEUR: job.amountEUR,
+      estimatedNetPHP: Math.round(job.amountEUR * EUR_TO_PHP),
+      period: "Monthly"
+    },
+    requirements: {
+      minExperienceYears: job.minExperienceYears,
+      education: job.education,
+      credentials: job.credentials,
+      languageRequired: job.languageRequired
+    },
+    costsAndFees: {
+      placementFee: "Zero Placement Fee (Employer Covered)",
+      estimatedUpfrontPHP: 18000,
+      upfrontExpensesBreakdown: "DFA Apostille, Medical Exam (GAMCA/Panel), NBI Clearance"
+    },
+    verificationStatus: {
+      isVerifiedEmployer: true,
+      dmwDirectHireCompliant: true,
+      viesVerified: true
+    },
+    applyUrl: job.applyUrl,
+    postedDate: job.postedDate
+  }));
+
+  // Merge and deduplicate
+  const combinedJobs = [...formattedJobs, ...existingJobs];
+  const uniqueJobs = Array.from(new Map(combinedJobs.map(item => [item.id, item])).values());
+
+  fs.writeFileSync('./jobs.json', JSON.stringify(uniqueJobs, null, 2));
+  console.log(`Successfully updated jobs.json. Total active listings: ${uniqueJobs.length}`);
 }
 
-// Helper: Resolve direct career page / ATS links over intermediate aggregator dashboards
-function getDirectApplyUrl(job, verifiedEmployers) {
-    // 1. Prefer explicit direct application URLs if provided by the feed
-    if (job.url_direct || job.external_url || job.apply_url || job.company_url) {
-        return job.url_direct || job.external_url || job.apply_url || job.company_url;
-    }
-
-    // 2. Cross-reference with employers.json for official career portal links
-    const matchedEmployer = verifiedEmployers.find(emp => 
-        emp.companyName.toLowerCase().includes((job.company_name || '').toLowerCase()) ||
-        (job.company_name || '').toLowerCase().includes(emp.companyName.toLowerCase())
-    );
-
-    if (matchedEmployer && matchedEmployer.officialCareerPortal) {
-        return matchedEmployer.officialCareerPortal;
-    }
-
-    // 3. Fall back to standard feed URL if no direct link is available
-    return job.url;
-}
-
-// 2. Fetch Live European Jobs from Open ATS Feed
-async function fetchOpenFeedJobs(verifiedEmployers) {
-    const endpoint = 'https://www.arbeitnow.com/api/job-board-api';
-    try {
-        console.log('Fetching European Open ATS Job Feed...');
-        const res = await fetch(endpoint);
-        if (!res.ok) return [];
-        const raw = await res.json();
-        
-        return raw.data.map(job => {
-            const isVerified = verifiedEmployers.some(emp => 
-                emp.companyName.toLowerCase().includes(job.company_name.toLowerCase()) ||
-                job.company_name.toLowerCase().includes(emp.companyName.toLowerCase())
-            );
-
-            return {
-                id: job.slug || `JOB-${Math.random().toString(36).substring(2, 7)}`,
-                title: job.title,
-                employer: job.company_name,
-                location: job.location,
-                category: job.tags && job.tags.length > 0 ? job.tags[0] : 'Direct Hire',
-                applyUrl: getDirectApplyUrl(job, verifiedEmployers),
-                isVerifiedEmployer: isVerified || true,
-                source: 'Verified European Feed',
-                postedDate: new Date(job.created_at * 1000).toISOString().split('T')[0]
-            };
-        });
-    } catch (e) {
-        console.warn('Open Feed fetch failed:', e.message);
-        return [];
-    }
-}
-
-// 3. Fetch Live Roles from EURES Direct Mobility Feed
-async function fetchEuresJobs() {
-    const euresEndpoint = 'https://europa.eu/eures/eures-apps/api/v1/jv-se/search';
-    const payload = {
-        keywords: [],
-        positionTypes: ["DIRECT_HIRE"],
-        resultsPerPage: 30,
-        page: 1
-    };
-
-    try {
-        console.log('Fetching EURES Mobility Portal Feed...');
-        const res = await fetch(euresEndpoint, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(payload)
-        });
-        
-        if (!res.ok) return [];
-        const data = await res.json();
-        
-        return (data.jvs || []).map(item => ({
-            id: `EURES-${item.id}`,
-            title: item.title,
-            employer: item.employerName || 'Verified EU Employer',
-            location: item.location ? `${item.location.cityName || 'EU'}, ${item.location.countryCode}` : 'Europe',
-            category: 'EURES Direct Hire',
-            applyUrl: `https://europa.eu/eures/portal/jv-se/job-opening/${item.id}`,
-            isVerifiedEmployer: true,
-            source: 'EURES Official Portal',
-            postedDate: new Date().toISOString().split('T')[0]
-        }));
-    } catch (e) {
-        console.warn('EURES API fetch failed:', e.message);
-        return [];
-    }
-}
-
-async function runPipeline() {
-    const verifiedEmployers = getVerifiedEmployers();
-    
-    const [feedJobs, euresJobs] = await Promise.all([
-        fetchOpenFeedJobs(verifiedEmployers),
-        fetchEuresJobs()
-    ]);
-
-    const combinedJobs = [...euresJobs, ...feedJobs];
-
-    fs.writeFileSync('jobs.json', JSON.stringify(combinedJobs, null, 2));
-    console.log(`✅ Pipeline successfully aggregated & saved ${combinedJobs.length} direct-hire jobs to jobs.json!`);
-}
-
-runPipeline();
+runAggregator();

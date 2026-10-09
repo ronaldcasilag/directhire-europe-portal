@@ -1,21 +1,23 @@
 name: Daily Job Fetcher Pipeline
 
 on:
-  push:
-    branches:
-      - main
   schedule:
+    # Runs automatically every day at 00:00 UTC
     - cron: '0 0 * * *'
+  # Allows you to manually trigger the pipeline anytime from the Actions tab
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
-  update-data:
+  fetch-and-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -23,19 +25,13 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run ATS Fetch Script
-        run: npm start
+      - name: Execute Aggregator Script
+        run: node fetchJobs.js
 
-      - name: Create Summary Report
+      - name: Commit & Push Updated Jobs Data
         run: |
-          echo "### 🚀 Daily Direct-Hire Job Pipeline Summary" >> $GITHUB_STEP_SUMMARY
-          echo "Pipeline executed successfully at $(date -u)" >> $GITHUB_STEP_SUMMARY
-          echo "Database successfully updated and deployed." >> $GITHUB_STEP_SUMMARY
-
-      - name: Commit and Push New Data
-        run: |
-          git config --global user.name "JobBot Automation"
-          git config --global user.email "bot@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add jobs.json
-          git commit -m "Automated daily job update" || exit 0
+          git commit -m "auto: daily aggregated direct-hire jobs update [skip ci]" || exit 0
           git push

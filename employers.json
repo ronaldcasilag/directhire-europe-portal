@@ -1,1 +1,42 @@
-
+[
+  {
+    "companyName": "DHL Supply Chain Germany GmbH",
+    "registryNumber": "DE114115273",
+    "registrySource": "German Handelsregister",
+    "viesVerified": true,
+    "officialCareerPortal": "https://careers.dhl.com/",
+    "country": "Germany"
+  },
+  {
+    "companyName": "Škoda Auto a.s.",
+    "registryNumber": "CZ00177041",
+    "registrySource": "Czech ARES Register",
+    "viesVerified": true,
+    "officialCareerPortal": "https://www.skoda-kariera.cz/",
+    "country": "Czech Republic"
+  },
+  {
+    "companyName": "Kuehne+Nagel B.V.",
+    "registryNumber": "NL001234567B01",
+    "registrySource": "Dutch KVK Chamber of Commerce",
+    "viesVerified": true,
+    "officialCareerPortal": "https://jobs.kuehne-nagel.com/",
+    "country": "Netherlands"
+  },
+  {
+    "companyName": "ASML Holding N.V.",
+    "registryNumber": "NL50271384",
+    "registrySource": "Dutch KVK Chamber of Commerce",
+    "viesVerified": true,
+    "officialCareerPortal": "https://www.asml.com/careers",
+    "country": "Netherlands"
+  },
+  {
+    "companyName": "EURES Mobility Portal",
+    "registryNumber": "EU-OFFICIAL-PORTAL",
+    "registrySource": "European Labour Authority",
+    "viesVerified": true,
+    "officialCareerPortal": "https://eures.europa.eu",
+    "country": "European Union"
+  }
+]

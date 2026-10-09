@@ -55,6 +55,32 @@ button{font:inherit;cursor:pointer;border-radius:6px}
 .more{display:block;margin:16px auto 0;background:#fff;border:1px solid var(--line);padding:10px 22px;font-weight:600;color:var(--ink)}
 .more:hover{border-color:#b7c0cf}
 
+
+.filters{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px}
+.filters .field{flex:1 1 180px}
+.filters select{width:100%;padding:10px 12px;font-size:15px;border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--ink)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.chip{background:#e8eefc;color:var(--accent-dark);border:0;padding:4px 10px;border-radius:999px;font-size:13px;font-weight:600}
+.chip:hover{background:#d6e1fa}
+.badge{display:inline-flex;align-items:center;gap:6px;background:var(--ok-bg);color:var(--ok);border:1px solid #b9dfc9;
+  font-size:12px;font-weight:600;padding:3px 10px;border-radius:999px;margin-top:8px}
+button.badge:hover{background:#d5eedf}
+.badge svg{width:13px;height:13px}
+dialog{border:0;border-radius:12px;padding:0;max-width:520px;width:calc(100% - 32px);box-shadow:0 20px 50px rgba(20,33,61,.3);color:var(--ink)}
+dialog::backdrop{background:rgba(20,33,61,.55)}
+.dlg-head{padding:22px 24px 14px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:12px}
+.dlg-head h2{margin:0;font-family:var(--serif);font-size:24px;line-height:1.2}
+.dlg-head p{margin:4px 0 0;font-size:14px;color:var(--muted)}
+.dlg-x{background:none;border:0;font-size:26px;line-height:1;color:var(--muted);padding:0 4px;align-self:flex-start}
+.dlg-body{padding:8px 24px 4px}
+.dlg-body dl{margin:0}
+.dlg-body .row{padding:12px 0;border-bottom:1px solid var(--line)}
+.dlg-body .row:last-child{border-bottom:0}
+.dlg-body dt{font-size:13px;color:var(--muted);font-weight:600}
+.dlg-body dd{margin:2px 0 0;font-size:16px;word-break:break-word}
+.dlg-body .na{color:#8a93a5;font-style:italic}
+.dlg-foot{padding:14px 24px 22px;font-size:13px;color:var(--muted)}
+.search.filters{display:grid;grid-template-columns:repeat(3,1fr) auto;align-items:end;margin-top:-52px}
 .notice{background:var(--warn-bg);color:var(--warn);border-radius:8px;padding:14px 18px;font-size:14px;margin:28px 0}
 .how{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:8px 0 8px}
 .how div{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:16px}
@@ -63,7 +89,7 @@ button{font:inherit;cursor:pointer;border-radius:6px}
 footer{border-top:1px solid var(--line);margin-top:36px;padding:22px 20px 40px;color:var(--muted);font-size:13px;text-align:center}
 
 @media(max-width:760px){
-  .search{grid-template-columns:1fr}
+  .search,.search.filters{grid-template-columns:1fr}
   .actions .btn-primary{flex:1}
   .job{flex-direction:column;align-items:stretch}
   .apply{text-align:center}
@@ -83,45 +109,26 @@ footer{border-top:1px solid var(--line);margin-top:36px;padding:22px 20px 40px;c
 </header>
 
 <main class="wrap">
-  <form class="search" id="searchForm" role="search" autocomplete="off">
-    <div class="field">
-      <label for="position">Position</label>
-      <input type="text" id="position" placeholder="e.g. Warehouse Operative" list="positionHints">
-      <datalist id="positionHints"></datalist>
-    </div>
-    <div class="field">
-      <label for="country">Country</label>
-      <input type="text" id="country" placeholder="e.g. Germany" list="countryHints">
-      <datalist id="countryHints"></datalist>
-    </div>
-    <div class="actions">
-      <button type="submit" class="btn-primary">Search jobs</button>
-      <button type="button" class="btn-ghost" id="clearBtn">Clear</button>
-    </div>
-  </form>
+  <section class="search filters" aria-label="Filters">
+    <div class="field"><label for="countryFilter">Country</label><select id="countryFilter"><option value="all">All countries</option></select></div>
+    <div class="field"><label for="industryFilter">Industry</label><select id="industryFilter"><option value="all">All industries</option></select></div>
+    <div class="field"><label for="sourceFilter">Data source</label><select id="sourceFilter"><option value="all">All sources</option></select></div>
+    <button type="button" class="btn-ghost" id="clearBtn">Clear filters</button>
+  </section>
+  <div class="chips" id="chips" aria-label="Active filters"></div>
 
   <div class="meta" id="meta" hidden>
     <p id="count" aria-live="polite"></p>
-    <label>
-      <span class="sr" style="position:absolute;left:-9999px">Data source</span>
-      <select id="sourceFilter">
-        <option value="all">All sources</option>
-        <option value="EURES Official Portal">EURES Mobility Portal</option>
-        <option value="Verified European Feed">Employer career systems</option>
-      </select>
-    </label>
   </div>
 
-  <div id="jobList" style="margin-top:22px">
-    <div class="state"><strong>Enter a position, a country, or both</strong>Matching vacancies will appear here once you start typing.</div>
-  </div>
+  <div id="jobList" style="margin-top:22px"><div class="state"><strong>Loading vacancies…</strong></div></div>
 
   <div class="notice">
     <b>Protect yourself from recruitment scams.</b> Legitimate employers do not charge applicants for interviews, visas or “processing”. If a posting asks for money, report it and do not pay.
   </div>
 
   <section aria-label="How it works" class="how">
-    <div><h4>Search</h4><p>Type a job title and the country you want to work in.</p></div>
+    <div><h4>Filter</h4><p>Narrow the list by country, industry or data source.</p></div>
     <div><h4>Check the source</h4><p>Each result shows the employer, location and where the listing came from.</p></div>
     <div><h4>Apply directly</h4><p>You apply on the employer’s own page. We never take a fee or a cut.</p></div>
   </section>
@@ -132,65 +139,81 @@ footer{border-top:1px solid var(--line);margin-top:36px;padding:22px 20px 40px;c
   Always confirm details with the employer before applying.
 </footer>
 
+
+<dialog id="verifyDialog" aria-labelledby="vTitle">
+  <div class="dlg-head">
+    <div>
+      <h2 id="vTitle">Employer verification</h2>
+      <p id="vSub"></p>
+    </div>
+    <button type="button" class="dlg-x" id="vClose" aria-label="Close">&times;</button>
+  </div>
+  <div class="dlg-body"><dl id="vBody"></dl></div>
+  <p class="dlg-foot">This information comes from the data source named above. Check it against the official registry before sharing personal documents.</p>
+</dialog>
+
 <script>
 const PAGE = 20;
 const $ = id => document.getElementById(id);
 let allJobs = [], shown = PAGE, current = [];
 
-// Common local spellings so "Deutschland" finds "Germany" etc.
 const ALIASES = {
-  deutschland:"germany", espana:"spain", españa:"spain", nederland:"netherlands", holland:"netherlands",
-  osterreich:"austria", österreich:"austria", italia:"italy", polska:"poland", belgique:"belgium",
-  schweiz:"switzerland", suisse:"switzerland", "česko":"czechia", "czech republic":"czechia",
-  sverige:"sweden", danmark:"denmark", norge:"norway", suomi:"finland", "éire":"ireland",
+  deutschland:"germany", espana:"spain", nederland:"netherlands", holland:"netherlands",
+  osterreich:"austria", italia:"italy", polska:"poland", belgique:"belgium",
+  schweiz:"switzerland", suisse:"switzerland", "czech republic":"czechia",
+  sverige:"sweden", danmark:"denmark", norge:"norway", suomi:"finland",
   uk:"united kingdom", "great britain":"united kingdom", britain:"united kingdom", england:"united kingdom"
 };
 const norm = s => (s||"").toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").trim();
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const safeUrl = u => { try { const x = new URL(u); return /^https?:$/.test(x.protocol) ? x.href : null; } catch { return null; } };
+const countryOf = j => (j.location||"").split(",").pop().trim();
+const CHECK = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M3 8.5l3.2 3L13 4.5"/></svg>';
 
 async function loadJobs(){
   try{
     const res = await fetch('jobs.json', {cache:'no-cache'});
     if(!res.ok) throw new Error(res.status);
-    allJobs = await res.json();
-    buildHints();
+    allJobs = (await res.json()).map((j,i) => ({...j, _i:i}));
+    buildOptions();
+    search();
   }catch(e){
     $('jobList').innerHTML = '<div class="state"><strong>Vacancies could not be loaded</strong>Please refresh the page. If the problem continues, try again later.</div>';
   }
 }
 
-function buildHints(){
-  const titles = [...new Set(allJobs.map(j => j.title).filter(Boolean))].slice(0,200);
-  const countries = [...new Set(allJobs.map(j => (j.location||"").split(",").pop().trim()).filter(Boolean))].sort();
-  $('positionHints').innerHTML = titles.map(t => `<option value="${esc(t)}">`).join('');
-  $('countryHints').innerHTML = countries.map(c => `<option value="${esc(c)}">`).join('');
+function fillSelect(id, values){
+  const sel = $(id);
+  sel.insertAdjacentHTML('beforeend', values.map(v => `<option value="${esc(v)}">${esc(v)}</option>`).join(''));
+}
+function buildOptions(){
+  const uniq = f => [...new Set(allJobs.map(f).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
+  fillSelect('countryFilter', uniq(countryOf));
+  fillSelect('industryFilter', uniq(j => j.industry || j.category));
+  fillSelect('sourceFilter', uniq(j => j.source));
 }
 
 function search(){
-  const pos = norm($('position').value);
-  let cty = norm($('country').value);
-  cty = ALIASES[cty] || cty;
-  const src = $('sourceFilter').value;
-
-  if(!pos && !cty){ reset(); return; }
-
-  const words = pos.split(/\s+/).filter(Boolean);
-  current = allJobs.filter(j => {
-    const hay = norm(j.title + ' ' + (j.employer||''));
-    const okPos = words.every(w => hay.includes(w));
-    const okCty = !cty || norm(j.location).includes(cty);
-    const okSrc = src === 'all' || j.source === src;
-    return okPos && okCty && okSrc;
-  });
+  const q = {
+    ctyF: $('countryFilter').value,
+    ind: $('industryFilter').value,
+    src: $('sourceFilter').value
+  };
+  renderChips(q);
+  current = allJobs.filter(j =>
+    (q.ctyF==='all' || countryOf(j) === q.ctyF)
+    && (q.ind==='all' || (j.industry || j.category) === q.ind)
+    && (q.src==='all' || j.source === q.src));
   shown = PAGE;
   render();
 }
 
-function reset(){
-  current = [];
-  $('meta').hidden = true;
-  $('jobList').innerHTML = '<div class="state"><strong>Enter a position, a country, or both</strong>Matching vacancies will appear here once you start typing.</div>';
+function renderChips(q){
+  const chips = [];
+  if(q.ctyF!=='all') chips.push(['countryFilter', q.ctyF]);
+  if(q.ind!=='all') chips.push(['industryFilter', q.ind]);
+  if(q.src!=='all') chips.push(['sourceFilter', q.src]);
+  $('chips').innerHTML = chips.map(([id,v]) => `<button type="button" class="chip" data-clear="${id}" aria-label="Remove filter ${esc(v)}">${esc(v)} &times;</button>`).join('');
 }
 
 function render(){
@@ -198,11 +221,15 @@ function render(){
   const n = current.length;
   $('count').textContent = n === 1 ? '1 vacancy found' : `${n} vacancies found`;
   if(!n){
-    $('jobList').innerHTML = '<div class="state"><strong>No vacancies match your search</strong>Try a shorter job title, a different spelling, or remove the country.</div>';
+    $('jobList').innerHTML = '<div class="state"><strong>No vacancies match your search</strong>Try removing a filter.</div>';
     return;
   }
   const items = current.slice(0, shown).map(j => {
     const url = safeUrl(j.applyUrl);
+    const badge = j.verification
+      ? `<button type="button" class="badge" data-verify="${j._i}" aria-haspopup="dialog">${CHECK} Verified Direct Hire</button>`
+      : `<span class="badge">Direct hire</span>`;
+    const ind = j.industry || j.category;
     return `
     <article class="job">
       <div>
@@ -210,10 +237,11 @@ function render(){
         <div class="facts">
           <span><b>Employer:</b> ${esc(j.employer)}</span>
           <span><b>Location:</b> ${esc(j.location)}</span>
+          ${ind ? `<span><b>Industry:</b> ${esc(ind)}</span>` : ''}
           <span><b>Source:</b> ${esc(j.source || 'Employer career system')}</span>
           ${j.postedDate ? `<span><b>Posted:</b> ${esc(j.postedDate)}</span>` : ''}
         </div>
-        <span class="tag">Direct hire</span>
+        ${badge}
       </div>
       ${url ? `<a class="apply" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Apply on employer site</a>` : ''}
     </article>`;
@@ -223,13 +251,45 @@ function render(){
   if($('moreBtn')) $('moreBtn').onclick = () => { shown += PAGE; render(); };
 }
 
-let t;
-const debounced = () => { clearTimeout(t); t = setTimeout(search, 250); };
-$('position').addEventListener('input', debounced);
-$('country').addEventListener('input', debounced);
+/* ---- Verification modal ---- */
+function openVerify(i){
+  const j = allJobs[i]; if(!j || !j.verification) return;
+  const v = j.verification;
+  const site = safeUrl(v.website);
+  const reg = safeUrl(v.registryUrl);
+  const val = x => x ? esc(x) : '<span class="na">Not provided</span>';
+  const rows = [
+    ['VAT / Tax ID', val(v.vatId || v.taxId)],
+    ['Registry source', reg && v.registrySource
+        ? `<a href="${esc(reg)}" target="_blank" rel="noopener noreferrer">${esc(v.registrySource)}</a>` : val(v.registrySource)],
+    ['Official website', site
+        ? `<a href="${esc(site)}" target="_blank" rel="noopener noreferrer">${esc(site.replace(/^https?:\/\//,'').replace(/\/$/,''))}</a>` : val(v.website)],
+  ];
+  if(v.verifiedOn) rows.push(['Last checked', esc(v.verifiedOn)]);
+  $('vSub').textContent = j.employer + (j.location ? ' · ' + j.location : '');
+  $('vBody').innerHTML = rows.map(([k,d]) => `<div class="row"><dt>${k}</dt><dd>${d}</dd></div>`).join('');
+  $('verifyDialog').showModal();
+}
+$('jobList').addEventListener('click', e => {
+  const b = e.target.closest('[data-verify]');
+  if(b) openVerify(+b.dataset.verify);
+});
+$('vClose').addEventListener('click', () => $('verifyDialog').close());
+$('verifyDialog').addEventListener('click', e => { if(e.target === e.currentTarget) e.currentTarget.close(); });
+
+/* ---- Wiring ---- */
+$('countryFilter').addEventListener('change', search);
+$('industryFilter').addEventListener('change', search);
 $('sourceFilter').addEventListener('change', search);
-$('searchForm').addEventListener('submit', e => { e.preventDefault(); search(); });
-$('clearBtn').addEventListener('click', () => { $('position').value = ''; $('country').value = ''; $('sourceFilter').value = 'all'; reset(); $('position').focus(); });
+$('chips').addEventListener('click', e => {
+  const c = e.target.closest('[data-clear]'); if(!c) return;
+  $(c.dataset.clear).value = 'all';
+  search();
+});
+$('clearBtn').addEventListener('click', () => {
+  ['countryFilter','industryFilter','sourceFilter'].forEach(id => $(id).value = 'all');
+  search();
+});
 
 loadJobs();
 </script>

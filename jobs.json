@@ -1,11 +1,618 @@
 [
   {
+    "id": "technical-product-manager-452575",
+    "title": "Technical Product Manager",
+    "employer": "Verve",
+    "location": "",
+    "category": "Product Management",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/verve/technical-product-manager-452575",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "senior-sales-engineer-dach-channel-germany-386747",
+    "title": "Senior Sales Engineer, DACH Channel",
+    "employer": "Horizon3Ai",
+    "location": "Germany",
+    "category": "Sales",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/horizon3ai/senior-sales-engineer-dach-channel-germany-386747",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "customer-success-manager-mid-market-munich-365610",
+    "title": "Customer Success Manager, Mid Market",
+    "employer": "Harvey",
+    "location": "Munich",
+    "category": "Customer Success",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/harvey/customer-success-manager-mid-market-munich-365610",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "associate-commercial-counsel-munich-158155",
+    "title": "Associate Commercial Counsel",
+    "employer": "Harvey",
+    "location": "Munich",
+    "category": "Legal",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/harvey/associate-commercial-counsel-munich-158155",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "senior-product-manager-german-speaking-managed-detection-and-incident-response-berlin-289534",
+    "title": "Senior Product Manager – German Speaking - Managed Detection and Incident Response (m/f/x)",
+    "employer": "Eye Security",
+    "location": "Berlin - hybrid",
+    "category": "Technology",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/eye-security/senior-product-manager-german-speaking-managed-detection-and-incident-response-berlin-289534",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "senior-product-marketing-manager-german-speaking-cybersecurity-berlin-69619",
+    "title": "Senior Product Marketing Manager – German Speaking - Cybersecurity (m/f/x)",
+    "employer": "Eye Security",
+    "location": "Berlin - hybrid",
+    "category": "Technology",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/eye-security/senior-product-marketing-manager-german-speaking-cybersecurity-berlin-69619",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "engineering-manager-all-genders-munchen-306583",
+    "title": "Engineering Manager (all genders)",
+    "employer": "Wemolo",
+    "location": "Munich",
+    "category": "Engineering",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/wemolo/engineering-manager-all-genders-munchen-306583",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "product-manager-all-genders-munchen-374619",
+    "title": "Product Manager (all genders)",
+    "employer": "Wemolo",
+    "location": "Munich",
+    "category": "Product",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/wemolo/product-manager-all-genders-munchen-374619",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "scientist-model-validation-and-experimental-data-analysis-munich-374935",
+    "title": "Scientist, Model Validation and Experimental Data Analysis",
+    "employer": "Proxima Fusion GmbH",
+    "location": "Munich",
+    "category": "Stellarator Architecture",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/scientist-model-validation-and-experimental-data-analysis-munich-374935",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "junior-software-engineer-data-berlin-438257",
+    "title": "Junior Software Engineer, Data",
+    "employer": "Almedia",
+    "location": "Berlin",
+    "category": "Tech",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/almedia/junior-software-engineer-data-berlin-438257",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "data-scientist-berlin-51916",
+    "title": "Data Scientist",
+    "employer": "Almedia",
+    "location": "Berlin",
+    "category": "Tech",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/almedia/data-scientist-berlin-51916",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "staff-data-scientist-berlin-21053",
+    "title": "Staff Data Scientist",
+    "employer": "Almedia",
+    "location": "Berlin",
+    "category": "Tech",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/almedia/staff-data-scientist-berlin-21053",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "data-analyst-hamburg-50537",
+    "title": "Data Analyst (m/f/d)",
+    "employer": "adjoe",
+    "location": "Hamburg",
+    "category": "adjoe",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/adjoe/data-analyst-hamburg-50537",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "freiburg-station-service-specialist-freiburg-basel-178591",
+    "title": "FREIBURG - Station Service Specialist (m/w/d)",
+    "employer": "Roadsurfer",
+    "location": "Freiburg-Basel",
+    "category": "Regional Station Management Europe",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/roadsurfer/freiburg-station-service-specialist-freiburg-basel-178591",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "renewals-specialist-remote-berlin-44257",
+    "title": "Renewals Specialist - Remote",
+    "employer": "N8N",
+    "location": "Berlin Office",
+    "category": "Sales",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/n8n/renewals-specialist-remote-berlin-44257",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "senior-customer-success-manager-german-speaking-remote-berlin-249718",
+    "title": "Senior Customer Success Manager - German Speaking (Remote)",
+    "employer": "N8N",
+    "location": "Berlin Office",
+    "category": "Sales",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/n8n/senior-customer-success-manager-german-speaking-remote-berlin-249718",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "sales-enablement-manager-remote-berlin-348872",
+    "title": "Sales Enablement Manager (Remote)",
+    "employer": "N8N",
+    "location": "Berlin Office",
+    "category": "Operations",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/n8n/sales-enablement-manager-remote-berlin-348872",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "influencer-marketing-manager-berlin-256374",
+    "title": "Influencer Marketing Manager (m/w/d)",
+    "employer": "7NXT GmbH",
+    "location": "Berlin",
+    "category": "Marketing Manager",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/influencer-marketing-manager-berlin-256374",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "social-media-manager-auf-minijob-basis-frankfurt-am-main-367199",
+    "title": "Social Media Manager (m/w/d) auf Minijob-Basis",
+    "employer": "Bayreuther Brauhaus Frankfurt",
+    "location": "Frankfurt am Main",
+    "category": "Marketing and Communication",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/bayreuther-brauhaus-frankfurt/social-media-manager-auf-minijob-basis-frankfurt-am-main-367199",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "head-of-business-development-business-development-manager-telco-carrier-cologne-18255",
+    "title": "Head of Business Development / Business Development Manager (m/w/d) - Telco & Carrier",
+    "employer": "ICS International Carrier Services GmbH",
+    "location": "Cologne",
+    "category": "Business Development",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/ics-international-carrier-services-gmbh/head-of-business-development-business-development-manager-telco-carrier-cologne-18255",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "fm-services-manager-plasma-center-marburg-53828",
+    "title": "FM Services Manager - Plasma Center (m/w/d)",
+    "employer": "CBRE Global Workplace Solutions",
+    "location": "Marburg",
+    "category": "Management",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/cbre-global-workplace-solutions/fm-services-manager-plasma-center-marburg-53828",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "werkstudent-marketing-cologne-403410",
+    "title": "Werkstudent Marketing (m/w/d)",
+    "employer": "Detechgene GmbH",
+    "location": "Cologne",
+    "category": "Marketing and Communication",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/detechgene-gmbh/werkstudent-marketing-cologne-403410",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "it-system-netzwerkadministrator-vollzeit-30-40h-anklam-101584",
+    "title": "IT-System- & Netzwerkadministrator (m/w/d) - Vollzeit (30-40h)",
+    "employer": "BSW Handels GmbH",
+    "location": "Anklam",
+    "category": "System and Network Administration",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/bsw-handels-gmbh/it-system-netzwerkadministrator-vollzeit-30-40h-anklam-101584",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "facility-manager-plasma-center-marburg-55822",
+    "title": "Facility Manager - Plasma Center (m/w/d)",
+    "employer": "CBRE Global Workplace Solutions",
+    "location": "Marburg",
+    "category": "Management",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/cbre-global-workplace-solutions/facility-manager-plasma-center-marburg-55822",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "projektleitung-versicherungs-software-all-genders-munich-349866",
+    "title": "Projektleitung Versicherungs-Software (all Genders)",
+    "employer": "Zabas Factory Portugal Unipessoal.com",
+    "location": "Munich",
+    "category": "Consulting",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/zabas-factory-portugal-unipessoalcom/projektleitung-versicherungs-software-all-genders-munich-349866",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "junior-manager-clipping-reporting-in-vollzeit-furth-361734",
+    "title": "Junior Manager Clipping & Reporting (w/m/d) in Vollzeit",
+    "employer": "rtfm GmbH",
+    "location": "Fürth",
+    "category": "Public Relations",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/rtfm-gmbh/junior-manager-clipping-reporting-in-vollzeit-furth-361734",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "online-dozent-kunstliche-intelligenz-digitale-anwendungen-teilzeit-moglich-leipzig-191425",
+    "title": "Online-Dozent (m/w/d) - Künstliche Intelligenz & digitale Anwendungen - Teilzeit möglich",
+    "employer": "Winkler & Company",
+    "location": "Leipzig",
+    "category": "Remote",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/winkler-company/online-dozent-kunstliche-intelligenz-digitale-anwendungen-teilzeit-moglich-leipzig-191425",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "sachbearbeiterin-lohnbuchhaltung-dusseldorf-5895",
+    "title": "Sachbearbeiter:in Lohnbuchhaltung",
+    "employer": "Die Pflegeunion Gruppe",
+    "location": "Düsseldorf",
+    "category": "HR",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/die-pflegeunion-gruppe/sachbearbeiterin-lohnbuchhaltung-dusseldorf-5895",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "partner-business-development-sales-manager-hamburg-348887",
+    "title": "Partner Business Development & Sales Manager (m/w/d)",
+    "employer": "tecRacer Germany GmbH",
+    "location": "Hamburg",
+    "category": "IT",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/tecracer-germany-gmbh/partner-business-development-sales-manager-hamburg-348887",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "junior-business-development-manager-hamburg-9397",
+    "title": "(Junior) Business Development Manager (m/w/d)",
+    "employer": "tecRacer Germany GmbH",
+    "location": "Hamburg",
+    "category": "IT",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/tecracer-germany-gmbh/junior-business-development-manager-hamburg-9397",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "senior-strategic-sales-manager-hamburg-158607",
+    "title": "Senior Strategic Sales Manager (m/w/d)",
+    "employer": "tecRacer Germany GmbH",
+    "location": "Hamburg",
+    "category": "IT",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/tecracer-germany-gmbh/senior-strategic-sales-manager-hamburg-158607",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "it-servicekoordinator-mit-operativer-verantwortung-bremerhaven-482210",
+    "title": "IT-Servicekoordinator (m/w/d) - mit operativer Verantwortung",
+    "employer": "Green Secure GmbH",
+    "location": "Bremerhaven",
+    "category": "Management",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/green-secure-gmbh/it-servicekoordinator-mit-operativer-verantwortung-bremerhaven-482210",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "fremdfirmenkoordinator-instandhaltungskoordinator-hamburg-414370",
+    "title": "Fremdfirmenkoordinator/Instandhaltungskoordinator (m/w/d)",
+    "employer": "PTR - Profi Talent Recruitment UG (haftungsbeschränkt)",
+    "location": "Hamburg",
+    "category": "Engineering",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/ptr-profi-talent-recruitment-ug-haftungsbeschrankt/fremdfirmenkoordinator-instandhaltungskoordinator-hamburg-414370",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "werkstudent-im-verkauf-mode-und-bekleidung-berlin-417944",
+    "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
+    "employer": "KULT | OLYMP & HADES",
+    "location": "Berlin, Brandenburg, Deutschland",
+    "category": "Direct Hire",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-berlin-417944",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "enterprise-account-executive-dach-berlin-471627",
+    "title": "Enterprise Account Executive (DACH)",
+    "employer": "ChurchDesk",
+    "location": "Berlin, Berlin, Germany",
+    "category": "Revenue",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/churchdesk/enterprise-account-executive-dach-berlin-471627",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "account-executive-dach-smb-berlin-333959",
+    "title": "Account Executive DACH - SMB (m/f/d)",
+    "employer": "Agicap",
+    "location": "Berlin 🇩🇪",
+    "category": "Account Executives",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/agicap/account-executive-dach-smb-berlin-333959",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "staff-frontend-engineer-frontend-architect-berlin-122504",
+    "title": "Staff Frontend Engineer / Frontend Architect (m/f/d)",
+    "employer": "Fact Finder",
+    "location": "Berlin",
+    "category": "Frontend",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/fact-finder/staff-frontend-engineer-frontend-architect-berlin-122504",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "senior-product-manager-wealth-ai-berlin-140324",
+    "title": "Senior Product Manager, Wealth & AI (f/m/d)",
+    "employer": "Getquin",
+    "location": "Berlin",
+    "category": "Product Management",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/getquin/senior-product-manager-wealth-ai-berlin-140324",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "werkstudent-legal-munchen-8815",
+    "title": "Werkstudent Legal (m/w/d)",
+    "employer": "Ocumeda Ag",
+    "location": "München",
+    "category": "Direct Hire",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/werkstudent-legal-munchen-8815",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "chief-of-staff-munchen-469836",
+    "title": "Chief of Staff (m/w/d)",
+    "employer": "Ocumeda Ag",
+    "location": "München",
+    "category": "Direct Hire",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/chief-of-staff-munchen-469836",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "principal-data-engineer-gis-geospatial-hybrid-frankfurt-266613",
+    "title": "Principal Data Engineer (m/w/d) - GIS / Geospatial",
+    "employer": "Alexander Thamm Gmbh",
+    "location": "Hybrid (Frankfurt)",
+    "category": "Data Engineer",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-gis-geospatial-hybrid-frankfurt-266613",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "full-stack-product-developer-berlin-440978",
+    "title": "Full Stack Product Developer (m/w/d)",
+    "employer": "Tablemedia",
+    "location": "Berlin",
+    "category": "php",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-440978",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "senior-odoo-engineer-erp-e-commerce-all-genders-munchen-193801",
+    "title": "Senior Odoo Engineer ERP & E-Commerce (all genders)",
+    "employer": "Valuenet Group",
+    "location": "München",
+    "category": "Direct Hire",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/valuenet-group/senior-odoo-engineer-erp-e-commerce-all-genders-munchen-193801",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "praktikant-all-genders-editorial-research-content-marketing-munchen-154950",
+    "title": "Praktikant (all genders) Editorial Research & Content Marketing",
+    "employer": "Valuenet Group",
+    "location": "München",
+    "category": "Praktikum Editorial Research München",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-editorial-research-content-marketing-munchen-154950",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "praktikant-all-genders-datamanagement-fokus-social-selling-munchen-215511",
+    "title": "Praktikant (all genders) Datamanagement – Fokus Social Selling",
+    "employer": "Valuenet Group",
+    "location": "München",
+    "category": "Praktikum Datamanagement Muc und Umgebung",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-datamanagement-fokus-social-selling-munchen-215511",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "praktikant-all-genders-6-monate-im-marketing-fokus-events-munchen-70361",
+    "title": "Praktikant (all genders) 6 Monate im Marketing – Fokus Events",
+    "employer": "Valuenet Group",
+    "location": "München",
+    "category": "Praktikum Eventmanagement München",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-6-monate-im-marketing-fokus-events-munchen-70361",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "praktikant-all-genders-3-6-monate-im-creative-content-team-munchen-109617",
+    "title": "Praktikant (all genders) 3-6 Monate im Creative Content Team",
+    "employer": "Valuenet Group",
+    "location": "München",
+    "category": "Bezahlte Praktikumstellen München",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-3-6-monate-im-creative-content-team-munchen-109617",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "operations-events-associate-merantix-ai-campus-berlin-44519",
+    "title": "Operations & Events Associate (Merantix AI Campus)",
+    "employer": "Merantix",
+    "location": "Berlin",
+    "category": "operations",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/merantix/operations-events-associate-merantix-ai-campus-berlin-44519",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "at-ficus-health-chief-commercial-officer-cco-starting-asap-berlin-137404",
+    "title": "@FICUS Health Chief Commercial Officer (CCO), starting ASAP (m/w/d)",
+    "employer": "Merantix",
+    "location": "Berlin",
+    "category": "CCO",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/merantix/at-ficus-health-chief-commercial-officer-cco-starting-asap-berlin-137404",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "personalreferentin-dusseldorf-13270",
+    "title": "Personalreferent:in",
+    "employer": "Die Pflegeunion Gruppe",
+    "location": "Düsseldorf",
+    "category": "Administration",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/die-pflegeunion-gruppe/personalreferentin-dusseldorf-13270",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "it-sicherheitsexperte-cybersecurity-engineer-schwerpunkt-vulnerability-management-lindenberg-im-allgau-434173",
+    "title": "IT-Sicherheitsexperte / Cybersecurity Engineer (m/w/d) Schwerpunkt Vulnerability Management",
+    "employer": "PTR - Profi Talent Recruitment UG (haftungsbeschränkt)",
+    "location": "Lindenberg im Allgäu",
+    "category": "IT Security",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/ptr-profi-talent-recruitment-ug-haftungsbeschrankt/it-sicherheitsexperte-cybersecurity-engineer-schwerpunkt-vulnerability-management-lindenberg-im-allgau-434173",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "sales-engineer-karlsruhe-466998",
+    "title": "Sales Engineer (m/f/d)",
+    "employer": "Keystone Photonics",
+    "location": "Karlsruhe",
+    "category": "Engineering",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/keystone-photonics/sales-engineer-karlsruhe-466998",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "ai-product-builder-product-design-ai-development-hamburg-199118",
+    "title": "AI Product Builder (m/w/d) - Product Design & AI Development",
+    "employer": "Metanoia IT Solutions GmbH",
+    "location": "Hamburg",
+    "category": "Remote",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/metanoia-it-solutions-gmbh/ai-product-builder-product-design-ai-development-hamburg-199118",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "unbezahltes-praktikum-in-hamburger-start-up-social-media-creative-marketing-209888",
+    "title": "Unbezahltes Praktikum in Hamburger Start-Up | Social Media & Creative Marketing (m/w/d)",
+    "employer": "ZVS Visions GmbH",
+    "location": "Hamburg",
+    "category": "Marketing and Communication",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/zvs-visions-gmbh/unbezahltes-praktikum-in-hamburger-start-up-social-media-creative-marketing-209888",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
+    "id": "werkstudenten-job-in-hamburger-start-up-social-media-creative-marketing-229607",
+    "title": "Werkstudenten-Job in Hamburger Start-Up | Social Media & Creative Marketing (m/w/d)",
+    "employer": "ZVS Visions GmbH",
+    "location": "Hamburg",
+    "category": "Marketing and Communication",
+    "applyUrl": "https://www.arbeitnow.com/jobs/companies/zvs-visions-gmbh/werkstudenten-job-in-hamburger-start-up-social-media-creative-marketing-229607",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
+  },
+  {
     "id": "cto-technical-co-founder-role-at-startup-metaki-dresden-159564",
     "title": "CTO / Technical Co-Founder (f/m/d) role at startup METAKI",
     "employer": "SouthwestX",
     "location": "Dresden",
     "category": "Data Scientist",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/southwestx/cto-technical-co-founder-role-at-startup-metaki-dresden-159564",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -15,6 +622,8 @@
     "location": "Bielefeld",
     "category": "Private Banking",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/v-heal-gmbh/privatkundenberater-bankkaufmann-bankauffrau-ostwestfalen-bielefeld-117632",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -24,6 +633,8 @@
     "location": "Cologne",
     "category": "Graphic Arts and Communication Design",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/startplatz-ai-academy/grafikdesign-praktikum-cologne-4046",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -33,6 +644,8 @@
     "location": "Cologne",
     "category": "Online Marketing",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/startplatz-ai-academy/social-media-marketing-praktikum-cologne-392441",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -42,6 +655,8 @@
     "location": "Hamburg",
     "category": "Social Media Manager",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/brand-upgrade-gmbh/teamlead-digital-social-media-hamburg-79533",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -51,6 +666,8 @@
     "location": "Hanover",
     "category": "SAP/ERP Consulting",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-advanced-business-application-programming-developer-hanover-1580",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -60,6 +677,8 @@
     "location": "Düsseldorf",
     "category": "Marketing and Communication",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/reltix-gmbh/marketing-brand-intern-dusseldorf-402865",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -69,6 +688,8 @@
     "location": "Munich",
     "category": "System and Network Administration",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/machineering/devops-engineer-kubernetes-cloud-munich-494791",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -78,6 +699,8 @@
     "location": "Lippstadt",
     "category": "Remote",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/langlauf-security-automation-gmbh/werkstudent-schwachstellenmanagement-von-der-sbom-zur-entscheidung-lippstadt-140479",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -87,6 +710,8 @@
     "location": "Karlsruhe",
     "category": "IT",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/diebauingenieure-bertsch-architekten-gmbh/werkstudent-praktikant-im-bereich-it-am-standort-karlsruhe-191991",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -96,6 +721,8 @@
     "location": "Pfullendorf",
     "category": "Power Engineering and Environmental Engineering",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/topteam-engineering-gmbh/wir-suchen-zum-nachstmoglicheelektroingenieur-technischer-verantwortlicher-mittelspannung-zum-aufbau-und-zur-weiterentwicklung-des-geschafts-433437",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -105,6 +732,8 @@
     "location": "Köln",
     "category": "Remote",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/bodyfokus-gmbh/video-content-creator-mit-hund-mini-job-von-zu-hause-koln-431467",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -114,6 +743,8 @@
     "location": "Karlsruhe",
     "category": "Product Design",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/markentrainer-werbeagentur-gmbh/webdesigner-mit-wordpress-und-ki-fokus-alternativ-mediengestalter-mit-wordpress-und-ki-fokus-karlsruhe-390683",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -123,6 +754,8 @@
     "location": "Heidelberg",
     "category": "Remote",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/wildschytz-ug/geschaftsfuhrer-gn-wildschytz-full-remote-40h-woche-heidelberg-179645",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -132,6 +765,8 @@
     "location": "Bonn",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/hairfree/senior-sales-manager-bonn-200989",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -141,6 +776,8 @@
     "location": "Deggendorf",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/hairfree/senior-sales-manager-deggendorf-14089",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -150,6 +787,8 @@
     "location": "Köln",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/hairfree/senior-sales-manager-koln-216127",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -159,6 +798,8 @@
     "location": "Heidenheim",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/hairfree/senior-sales-manager-heidenheim-185265",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -168,6 +809,8 @@
     "location": "München",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/hairfree/senior-sales-manager-munchen-sud-209848",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -177,6 +820,8 @@
     "location": "Trier",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/hairfree/senior-sales-manager-trier-479022",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -186,6 +831,8 @@
     "location": "München",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/hairfree/senior-sales-manager-munchen-nord-178563",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -195,6 +842,8 @@
     "location": "Heidelberg",
     "category": "Consulting",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/solution-architect-sap-finance-s-4hana-conversion-heidelberg-258169",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -204,6 +853,8 @@
     "location": "Heidelberg",
     "category": "Consulting",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/senior-consultant-sap-plm-support-projects-heidelberg-491963",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -213,6 +864,8 @@
     "location": "Heidelberg",
     "category": "Consulting",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/senior-consultant-sap-hcm-hr-schwerpunkt-pt-oder-py-heidelberg-346587",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -222,6 +875,8 @@
     "location": "Hamburg",
     "category": "Recruitment and Selection",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/dw-deutschland-gmbh/quereinstieg-burokauffrau-mann-als-recruiterin-hamburg-416107",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -231,6 +886,8 @@
     "location": "Berlin",
     "category": "Marketing and Communication",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/bam-communication-gmbh/pflichtpraktikum-im-eventbereich-6-monate-ab-marz-2027-berlin-409873",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -240,6 +897,8 @@
     "location": "Berlin",
     "category": "Marketing and Communication",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/bam-communication-gmbh/pflichtpraktikum-im-pr-und-influencer-marketing-bereich-6-monate-ab-februar-2027-berlin-312920",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -249,6 +908,8 @@
     "location": "Berlin",
     "category": "Marketing and Communication",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/bam-communication-gmbh/pflichtpraktikum-im-grafik-bereich-6-monate-ab-januar-2027-berlin-353058",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -258,6 +919,8 @@
     "location": "Beeskow",
     "category": "Remote",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/julia-schuler/digitale-vertriebsassistenz-remote-sales-support-beeskow-213748",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -267,6 +930,8 @@
     "location": "Munich",
     "category": "Remote",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/wavestone-germany-ag/sap-drc-consultant-roll-out-uae-refnr-47948-munich-361347",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -276,6 +941,8 @@
     "location": "Ottobrunn, Bavaria",
     "category": "Commercial",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/working-student-sales-operations-ottobrunn-bavaria-134772",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -285,6 +952,8 @@
     "location": "Parsdorf, Bavaria",
     "category": "Flight Software",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-gnc-engineer-navigation-flight-software-parsdorf-bavaria-428223",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -294,6 +963,8 @@
     "location": "Parsdorf, Bavaria",
     "category": "Commercial",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-event-specialist-parsdorf-bavaria-291872",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -303,6 +974,8 @@
     "location": "Parsdorf, Bavaria",
     "category": "Commercial",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-marketing-branding-parsdorf-bavaria-462118",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -312,6 +985,8 @@
     "location": "Düsseldorf, North Rhine-Westphalia",
     "category": "Graduate Programs",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/analytics-future-leaders-graduate-program-dusseldorf-north-rhine-westphalia-227606",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -321,6 +996,8 @@
     "location": "",
     "category": "International",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/quince/seo-manager-eu-uk-251797",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -330,6 +1007,8 @@
     "location": "Berlin, Berlin",
     "category": "Product",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/superchat/technical-product-owner-integrations-berlin-berlin-473381",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -339,6 +1018,8 @@
     "location": "Remote",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/camunda/remote-corporate-account-executive-iii-na-335935",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -348,6 +1029,8 @@
     "location": "Remote",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-iii-uae-130761",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -357,6 +1040,8 @@
     "location": "Berlin",
     "category": "Headquarter Growth",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/prozessmanagerin-berlin-155679",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -366,6 +1051,8 @@
     "location": "Berlin",
     "category": "Installation PV",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/werkstudentin-booking-managerin-berlin-47630",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -375,6 +1062,8 @@
     "location": "DE Remote",
     "category": "Installation PV",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/operations-managerin-baustellen-berlin-94048",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -384,6 +1073,8 @@
     "location": "Berlin",
     "category": "Headquarter Growth",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/expert-technical-accounting-berlin-203564",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -393,6 +1084,8 @@
     "location": "Remote",
     "category": "Installation PV",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/remote-ehs-managerin-92366",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -402,501 +1095,8 @@
     "location": "Berlin",
     "category": "Headquarter Growth",
     "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/senior-accountant-general-ledger-hgb-bilanzbuchhalterin-berlin-280599",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "junior-operations-manager-process-excellence-automation-berlin-333778",
-    "title": "(Junior) Operations Manager – Process Excellence & Automation (w/m/d)",
-    "employer": "Enpal",
-    "location": "Berlin",
-    "category": "Headquarter Growth",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/junior-operations-manager-process-excellence-automation-berlin-333778",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-software-engineer-berlin-496201",
-    "title": "Senior Software Engineer (f/m/x)",
-    "employer": "Enpal",
-    "location": "Berlin",
-    "category": "Tech",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/senior-software-engineer-berlin-496201",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "inside-sales-manager-berlin-455106",
-    "title": "Inside Sales Manager (w/m/d)",
-    "employer": "Enpal",
-    "location": "Berlin",
-    "category": "Sales",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/inside-sales-manager-berlin-455106",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "remote-servicetechnikerin-fur-warmepumpen-124575",
-    "title": "Servicetechniker:in für Wärmepumpen (w/m/d)",
-    "employer": "Enpal",
-    "location": "Remote",
-    "category": "Installation Wärmepumpe",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/enpal/remote-servicetechnikerin-fur-warmepumpen-124575",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "deputy-flight-software-lead-munich-379124",
-    "title": "Deputy Flight Software Lead",
-    "employer": "The Exploration Company",
-    "location": "Munich, Germany",
-    "category": "Engineering",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/deputy-flight-software-lead-munich-379124",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-composite-engineer-munich-103690",
-    "title": "Senior Composite Engineer",
-    "employer": "The Exploration Company",
-    "location": "Munich, Germany",
-    "category": "Engineering",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-composite-engineer-munich-103690",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "ait-senior-project-manager-nyx-earth-munich-10372",
-    "title": "AIT Senior Project Manager – Nyx Earth",
-    "employer": "The Exploration Company",
-    "location": "Munich, Germany",
-    "category": "Program",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-senior-project-manager-nyx-earth-munich-10372",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "brand-growth-partnerships-munich-462256",
-    "title": "Brand, Growth & Partnerships",
-    "employer": "Bowatt",
-    "location": "Munich",
-    "category": "Growth",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/bowatt/brand-growth-partnerships-munich-462256",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "founding-design-engineer-germany-330652",
-    "title": "Founding Design Engineer",
-    "employer": "Bowatt",
-    "location": "Germany",
-    "category": "Engineering",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-design-engineer-germany-330652",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "sales-development-representative-munich-459730",
-    "title": "Sales Development Representative (m/w/d) - Munich",
-    "employer": "Ideals",
-    "location": "Munich, Germany",
-    "category": "Key Accounts",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/ideals/sales-development-representative-munich-459730",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "people-operations-associate-munich-367492",
-    "title": "People & Operations Associate",
-    "employer": "BLP Digital AG",
-    "location": "Munich",
-    "category": "Operations",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/blp-digital-ag/people-operations-associate-munich-367492",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "forward-deployed-engineer-ai-inference-intern-berlin-154503",
-    "title": "Forward Deployed Engineer – AI Inference (Intern)",
-    "employer": "Lyceum",
-    "location": "Berlin",
-    "category": "Product",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/lyceum/forward-deployed-engineer-ai-inference-intern-berlin-154503",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "security-compliance-engineer-all-genders-remote-germany-32354",
-    "title": "Security & Compliance Engineer (all genders) - Remote Germany",
-    "employer": "Linro",
-    "location": "Germany",
-    "category": "Engineering",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/linro/security-compliance-engineer-all-genders-remote-germany-32354",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "forward-deployed-engineer-berlin-120347",
-    "title": "Forward Deployed Engineer",
-    "employer": "Rematiq Gmbh",
-    "location": "Berlin",
-    "category": "Tech",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/forward-deployed-engineer-berlin-120347",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "projektleiter-breitband-fttx-ehingen-33172",
-    "title": "Projektleiter - Breitband / FTTx (m/w/d)",
-    "employer": "prettyTELCO GmbH",
-    "location": "Ehingen",
-    "category": "Project Management",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/prettytelco-gmbh/projektleiter-breitband-fttx-ehingen-33172",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-it-administrator-in-der-workplace-verwaltung-ehingen-240791",
-    "title": "Senior IT-Administrator in der Workplace-Verwaltung (m/w/d)",
-    "employer": "prettyTELCO GmbH",
-    "location": "Ehingen",
-    "category": "System and Network Administration",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/prettytelco-gmbh/senior-it-administrator-in-der-workplace-verwaltung-ehingen-240791",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "junior-customer-success-manager-munchen-munich-62537",
-    "title": "Junior Customer Success Manager (m/w/d) | München",
-    "employer": "fleetster",
-    "location": "Munich",
-    "category": "Customer Service",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/fleetster/junior-customer-success-manager-munchen-munich-62537",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "technical-account-manager-b2b-mcptt-mobilfunk-cologne-203372",
-    "title": "Technical Account Manager (m/w/d) B2B MCPTT / Mobilfunk",
-    "employer": "prettyTELCO GmbH",
-    "location": "Cologne",
-    "category": "Sales Engineer",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/prettytelco-gmbh/technical-account-manager-b2b-mcptt-mobilfunk-cologne-203372",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-innovation-business-development-manager-dresden-261265",
-    "title": "(Senior) Innovation & Business Development Manager (m/w/d)",
-    "employer": "ExciteLab GmbH",
-    "location": "Dresden",
-    "category": "Business Development",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/excitelab-gmbh/senior-innovation-business-development-manager-dresden-261265",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "it-systemadministrator-stephanskirchen-238103",
-    "title": "IT-Systemadministrator (w/m/d)",
-    "employer": "PUR VITAL Altenhilfe GmbH",
-    "location": "Stephanskirchen",
-    "category": "Applications Administration",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/pur-vital-altenhilfe-gmbh/it-systemadministrator-stephanskirchen-238103",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "praktikant-management-consulting-berlin-227210",
-    "title": "Praktikant Management Consulting (w/m/d)",
-    "employer": "scaleon GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "category": "Consulting",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/scaleon-gmbh/praktikant-management-consulting-berlin-227210",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "remote-senior-data-engineer-gilching-277204",
-    "title": "Senior Data Engineer (m/w/d)",
-    "employer": "celebrate company GmbH",
-    "location": "Homeoffice",
-    "category": "Data Engineering",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-277204",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "remote-senior-growth-marketing-managerin-hamburg-389210",
-    "title": "Senior Growth Marketing Manager:in (m/w/d)",
-    "employer": "celebrate company GmbH",
-    "location": "Homeoffice",
-    "category": "Online Marketing",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-growth-marketing-managerin-hamburg-389210",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-customer-success-manager-all-genders-munchen-440771",
-    "title": "Senior Customer Success Manager (all genders)",
-    "employer": "Foodji GmbH",
-    "location": "München, Bayern, Deutschland",
-    "category": "Account Management",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-customer-success-manager-all-genders-munchen-440771",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "remote-senior-product-designer-illustration-motion-edtech-406229",
-    "title": "Senior Product Designer (Illustration & Motion, EdTech)",
-    "employer": "Miaplaza",
-    "location": "Remote job",
-    "category": "Design / User Experience",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-senior-product-designer-illustration-motion-edtech-406229",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "remote-fachkraft-fur-arbeitssicherheit-sicherheitsingenieur-praventic-konstanz-382718",
-    "title": "Fachkraft für Arbeitssicherheit / Sicherheitsingenieur (w/m/d) (Präventic)",
-    "employer": "Arsipa GmbH",
-    "location": "Homeoffice",
-    "category": "Praeventic GmbH",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/arsipa-gmbh/remote-fachkraft-fur-arbeitssicherheit-sicherheitsingenieur-praventic-konstanz-382718",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "hackers-wanted-software-engineers-hamburg-324314",
-    "title": "Hackers wanted – Software Engineers",
-    "employer": "freiheit.com technologies",
-    "location": "Hamburg",
-    "category": "Engineers",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-324314",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "software-engineer-full-stack-backend-frontend-karlsruhe-461441",
-    "title": "Software Engineer: Full-Stack, Backend, Frontend (m/w/d)",
-    "employer": "Prenode",
-    "location": "Karlsruhe",
-    "category": "Typescript",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-461441",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-backend-engineer-munich-221993",
-    "title": "Senior Backend Engineer (f/m/d)",
-    "employer": "Predium",
-    "location": "Munich",
-    "category": "Software",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/predium/senior-backend-engineer-munich-221993",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "head-of-engineering-munich-113311",
-    "title": "Head of Engineering (f/m/d)",
-    "employer": "Predium",
-    "location": "Munich",
-    "category": "Engineering",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/predium/head-of-engineering-munich-113311",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "werkstudent-in-it-service-management-prozessmanagement-ki-munich-210011",
-    "title": "Werkstudent_in IT Service Management, Prozessmanagement & KI (m/w/d)",
-    "employer": "Audi Business Innovation Gmbh",
-    "location": "Munich",
-    "category": "IT Service Management",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/audi-business-innovation-gmbh/werkstudent-in-it-service-management-prozessmanagement-ki-munich-210011",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-brand-marketing-manager-all-genders-berlin-488270",
-    "title": "Senior Brand Marketing Manager (all genders)",
-    "employer": "marta",
-    "location": "Berlin",
-    "category": "Branding",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/marta/senior-brand-marketing-manager-all-genders-berlin-488270",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "werkstudent-schulungskonzepte-erneuerbare-energien-koln-zentrale-25619",
-    "title": "Werkstudent (m/w/d) Schulungskonzepte & Erneuerbare Energien",
-    "employer": "LichtBlick Energy as a Service GmbH",
-    "location": "Köln Zentrale",
-    "category": "Join",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/lichtblick-energy-as-a-service-gmbh/werkstudent-schulungskonzepte-erneuerbare-energien-koln-zentrale-25619",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "ui-ux-designer-untermstrich-hamburg-401706",
-    "title": "UI / UX Designer untermStrich (m/w/d) – Hamburg",
-    "employer": "Everii Germany Gmbh 3",
-    "location": "Hamburg",
-    "category": "UI/UX",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-untermstrich-hamburg-401706",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "ui-ux-designer-teambox-hamburg-124799",
-    "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
-    "employer": "Everii Germany Gmbh 3",
-    "location": "Hamburg",
-    "category": "UI/UX",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-teambox-hamburg-124799",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "remote-account-executive-all-genders-183064",
-    "title": "Account Executive (all genders)",
-    "employer": "Synaos Gmbh",
-    "location": "Germany (remote)",
-    "category": "account executive",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/synaos-gmbh/remote-account-executive-all-genders-183064",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "junior-regular-ux-ui-designer-munchen-450113",
-    "title": "Junior / Regular UX/UI Designer (m/w/d)",
-    "employer": "Slash Digital",
-    "location": "München",
-    "category": "UX",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/slash-digital/junior-regular-ux-ui-designer-munchen-450113",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "remote-web-developer-all-genders-475933",
-    "title": "Web Developer (all genders)",
-    "employer": "Contabo",
-    "location": "Remote (Germany)",
-    "category": "Hosting",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/contabo/remote-web-developer-all-genders-475933",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "remote-senior-network-engineer-all-genders-116100",
-    "title": "Senior Network Engineer (all genders)",
-    "employer": "Contabo",
-    "location": "Remote (Germany)",
-    "category": "Senior Network Engineer",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-116100",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "remote-platform-reliability-engineer-all-genders-77977",
-    "title": "Platform & Reliability Engineer (all genders)",
-    "employer": "Contabo",
-    "location": "Remote (Germany)",
-    "category": "Kong",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/contabo/remote-platform-reliability-engineer-all-genders-77977",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-account-manager-new-business-potsdam-hybrid-305622",
-    "title": "Senior Account Manager - New Business",
-    "employer": "Ambrosys",
-    "location": "Potsdam (hybrid)",
-    "category": "technology sales",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/ambrosys/senior-account-manager-new-business-potsdam-hybrid-305622",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "working-student-analytics-engineering-berlin-zentrale-468443",
-    "title": "Working Student Analytics Engineering (f/m/x)",
-    "employer": "Thermondo",
-    "location": "Berlin (Zentrale)",
-    "category": "Werkstudent",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/thermondo/working-student-analytics-engineering-berlin-zentrale-468443",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "werkstudent-technical-support-self-service-berlin-zentrale-201084",
-    "title": "Werkstudent Technical Support & Self-Service (m/w/d)",
-    "employer": "Thermondo",
-    "location": "Berlin (Zentrale)",
-    "category": "greentech",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/thermondo/werkstudent-technical-support-self-service-berlin-zentrale-201084",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-manager-technical-operations-bauleiter-remote-berlin-zentrale-49465",
-    "title": "Senior Manager Technical Operations (Bauleiter) - Remote (m/w/d)",
-    "employer": "Thermondo",
-    "location": "Berlin (Zentrale)",
-    "category": "Bauleitung",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-manager-technical-operations-bauleiter-remote-berlin-zentrale-49465",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-software-engineer-platform-infrastructure-berlin-57680",
-    "title": "Senior Software Engineer - Platform & Infrastructure (f/m/d)",
-    "employer": "Holoplot",
-    "location": "Berlin",
-    "category": "Direct Hire",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-engineer-platform-infrastructure-berlin-57680",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-director-software-engineering-berlin-59643",
-    "title": "Senior Director Software Engineering (f/m/d)",
-    "employer": "Holoplot",
-    "location": "Berlin",
-    "category": "Direct Hire",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-director-software-engineering-berlin-59643",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "trainee-buchhaltung-office-management-berlin-432475",
-    "title": "Trainee -  Buchhaltung & Office Management (m/w/d)",
-    "employer": "Reisetopia",
-    "location": "Berlin",
-    "category": "Start-up",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/reisetopia/trainee-buchhaltung-office-management-berlin-432475",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "team-lead-software-development-product-deutschland-osterreich-schweiz-und-italien-138166",
-    "title": "Team Lead Software Development Product (m/w/d)",
-    "employer": "Asseco Solutions",
-    "location": "Deutschland, Österreich, Schweiz und Italien",
-    "category": "Direct Hire",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/asseco-solutions/team-lead-software-development-product-deutschland-osterreich-schweiz-und-italien-138166",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "team-lead-software-development-customization-deutschland-osterreich-schweiz-und-italien-381419",
-    "title": "Team Lead Software Development Customization (m/w/d)",
-    "employer": "Asseco Solutions",
-    "location": "Deutschland, Österreich, Schweiz und Italien",
-    "category": "Direct Hire",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/asseco-solutions/team-lead-software-development-customization-deutschland-osterreich-schweiz-und-italien-381419",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-account-executive-automotive-dusseldorf-434660",
-    "title": "Senior Account Executive - Automotive",
-    "employer": "Infinit",
-    "location": "Dusseldorf",
-    "category": "Growth - Germany",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/infinit/senior-account-executive-automotive-dusseldorf-434660",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-account-executive-automotive-munich-156512",
-    "title": "Senior Account Executive - Automotive",
-    "employer": "Infinit",
-    "location": "Munich",
-    "category": "Growth - Germany",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/infinit/senior-account-executive-automotive-munich-156512",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-account-executive-automotive-cologne-350165",
-    "title": "Senior Account Executive - Automotive",
-    "employer": "Infinit",
-    "location": "Cologne",
-    "category": "Growth - Germany",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/infinit/senior-account-executive-automotive-cologne-350165",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "senior-account-executive-automotive-berlin-291217",
-    "title": "Senior Account Executive - Automotive",
-    "employer": "Infinit",
-    "location": "Berlin",
-    "category": "Growth - Germany",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/infinit/senior-account-executive-automotive-berlin-291217",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "influencer-manager-fayn-hamburg-132757",
-    "title": "Influencer Manager fayn. (m/w/d)",
-    "employer": "TEVEO GmbH",
-    "location": "Hamburg",
-    "category": "Marketing and Communication",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/teveo-gmbh/influencer-manager-fayn-hamburg-132757",
-    "postedDate": "2026-10-09"
-  },
-  {
-    "id": "mitarbeiter-kundenservice-b2c-fintech-berlin-359158",
-    "title": "Mitarbeiter Kundenservice B2C FinTech (m/w/d)",
-    "employer": "Nickel",
-    "location": "Berlin",
-    "category": "Customer Service",
-    "applyUrl": "https://www.arbeitnow.com/jobs/companies/nickel/mitarbeiter-kundenservice-b2c-fintech-berlin-359158",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -906,6 +1106,8 @@
     "location": "London",
     "category": "Admin (FSEE)",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/staff-software-engineer-console-gpu-inference-london-186860",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -915,6 +1117,8 @@
     "location": "London",
     "category": "Architecture & Engineering",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-people-technology-analyst-london-104079",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -924,6 +1128,8 @@
     "location": "London",
     "category": "Pre-Sales",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/technical-solutions-engineer-london-459020",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -933,6 +1139,8 @@
     "location": "London",
     "category": "Client Partners",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-corporate-services-specialist-london-489792",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -942,6 +1150,8 @@
     "location": "London",
     "category": "Field Engineering - Other",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-transport-london-221800",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -951,6 +1161,8 @@
     "location": "London",
     "category": "Field Engineering - Other",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-london-126629",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -960,6 +1172,8 @@
     "location": "London",
     "category": "Professional Services Operations",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-london-285228",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -969,6 +1183,8 @@
     "location": "Remote",
     "category": "SA",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-solutions-architect-new-business-emea-300311",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -978,6 +1194,8 @@
     "location": "Remote",
     "category": "Global Digital - EMEA",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-smb-account-executive-new-business-195044",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -987,6 +1205,8 @@
     "location": "Remote",
     "category": "Global Digital - EMEA",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-smb-account-executive-growth-36417",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -996,6 +1216,8 @@
     "location": "Remote",
     "category": "Consulting Delivery",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-professional-services-engineer-351271",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1005,6 +1227,8 @@
     "location": "Remote",
     "category": "Field Operations",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-manager-deal-desk-emea-238330",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1014,6 +1238,8 @@
     "location": "Remote",
     "category": "DevOps Engineering",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-core-devops-container-registry-126191",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1023,6 +1249,8 @@
     "location": "Remote",
     "category": "DevOps Engineering",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-core-devops-358372",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1032,6 +1260,8 @@
     "location": "Remote",
     "category": "SA",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-demo-architect-emea-79564",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1041,6 +1271,8 @@
     "location": "London",
     "category": "SE Field-321",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/okta/senior-solutions-engineer-uki-london-142853",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1050,6 +1282,8 @@
     "location": "London",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/bounce/flexible-brand-ambassador-london-stations-commission-based-472814",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1059,6 +1293,8 @@
     "location": "London Office - Hybrid",
     "category": "ClearBank Group Holdings",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/screening-and-escalations-senior-payment-analyst-london-hybrid-103772",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1068,6 +1304,8 @@
     "location": "London Office - Hybrid",
     "category": "ClearBank Group Holdings",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/clearbank/iam-analyst-london-hybrid-73951",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1077,6 +1315,8 @@
     "location": "London",
     "category": "Design",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/pigment/lead-product-designer-agentic-ai-london-326280",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1086,6 +1326,8 @@
     "location": "London",
     "category": "Media Management & Delivery",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/business-director-biddable-london-142209",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1095,6 +1337,8 @@
     "location": "London",
     "category": "Media Management & Delivery",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/av-implementation-director-london-291363",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1104,6 +1348,8 @@
     "location": "London",
     "category": "Media Management & Delivery",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-publishing-uk-london-74319",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1113,6 +1359,8 @@
     "location": "London",
     "category": "Media Management & Delivery",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-programmatic-london-186861",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1122,6 +1370,8 @@
     "location": "London",
     "category": "Media Management & Delivery",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-partnerships-global-london-118624",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1131,6 +1381,8 @@
     "location": "London",
     "category": "Regional Technical Sales EMEA 1000031",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/solutions-architect-london-394691",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1140,6 +1392,8 @@
     "location": "Remote",
     "category": "Legal",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/remote-senior-counsel-emea-employment-16594",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1149,6 +1403,8 @@
     "location": "London",
     "category": "Sales Management",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/lead-account-executive-central-gov-blue-light-uki-london-24883",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1158,6 +1414,8 @@
     "location": "Cheltenham",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/knowbe4/cybersecurity-threat-researcher-position-located-in-cheltenham-united-kingdom-248619",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1167,6 +1425,8 @@
     "location": "Cardiff",
     "category": "4316 - Cardiff R&D Center",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/esri/gis-product-engineer-ii-arcgis-maps-sdks-for-native-apps-cardiff-496059",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1176,6 +1436,8 @@
     "location": "London",
     "category": "Core Engineering",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/wolt/senior-backend-engineergo-storage-platform-london-427696",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1185,6 +1447,8 @@
     "location": "London",
     "category": "R&D Business Systems",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-data-engineer-gtm-london-138765",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1194,6 +1458,8 @@
     "location": "",
     "category": "Global Specialty Sales",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/regional-director-data-security-emea-apj-359583",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1203,6 +1469,8 @@
     "location": "London",
     "category": "GTM",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/braintrust/sales-development-representative-london-2559",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1212,6 +1480,8 @@
     "location": "London",
     "category": "Product Development",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/incidentio/technical-support-engineer-london-490627",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1221,6 +1491,8 @@
     "location": "UK London",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/bumble-inc/principal-machine-learning-engineer-matching-recommendations-london-417918",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1230,6 +1502,8 @@
     "location": "London",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/seamflow/founding-gtm-london-363517",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1239,6 +1513,8 @@
     "location": "London",
     "category": "Client Roles",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-46231",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1248,6 +1524,8 @@
     "location": "London, Greater London, United Kingdom",
     "category": "Project Management",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/regional-seo-team-lead-london-455790",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1257,6 +1535,8 @@
     "location": "London, Greater London, United Kingdom",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/junior-account-executive-london-378765",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1266,6 +1546,8 @@
     "location": "Manchester, Manchester, United Kingdom",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/sterling-account-executive-manchester-340714",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1275,6 +1557,8 @@
     "location": "London, Greater London, United Kingdom",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/director-business-development-financial-services-london-82395",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1284,6 +1568,8 @@
     "location": "London, Greater London, United Kingdom",
     "category": "Tech",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-software-engineer-c-net-london-406857",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1293,6 +1579,8 @@
     "location": "Stamford, England",
     "category": "Applications Engineering",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/zeeco/graduate-applications-engineer-rental-and-rapid-response-stamford-england-386748",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1302,6 +1590,8 @@
     "location": "London",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/emburse/sales-account-executive-uk-london-495763",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1311,6 +1601,8 @@
     "location": "London, UK",
     "category": "Creative",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/senior-creative-designer-london-uk-45329",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1320,6 +1612,8 @@
     "location": "London, UK",
     "category": "People",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/benefits-manager-london-376873",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1329,6 +1623,8 @@
     "location": "London, UK",
     "category": "Tech Development",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-software-engineer-london-416713",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1338,6 +1634,8 @@
     "location": "London, UK",
     "category": "Tech Development",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/kraken/platform-support-engineer-eng-i-london-488310",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1347,6 +1645,8 @@
     "location": "London",
     "category": "People and Culture",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/abound/people-operations-specialist-london-448518",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1356,6 +1656,8 @@
     "location": "Zilch UK",
     "category": "Product",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/zilch/director-of-technical-programme-management-london-448868",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1365,6 +1667,8 @@
     "location": "London",
     "category": "Commercial",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/fonio/partner-manager-uk-london-496449",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1374,6 +1678,8 @@
     "location": "London",
     "category": "Beyond Sports",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/technical-delivery-lead-machine-learning-london-53163",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1383,6 +1689,8 @@
     "location": "London",
     "category": "All Cost Centers",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/director-account-management-uk-london-264458",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1392,6 +1700,8 @@
     "location": "London, United Kingdom",
     "category": "Intelligence",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/data-science-lead-london-united-kingdom-238961",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1401,6 +1711,8 @@
     "location": "London, United Kingdom",
     "category": "Intelligence",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-crypto-threat-analyst-terrorism-london-united-kingdom-294904",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1410,6 +1722,8 @@
     "location": "Hybrid (London)",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/operations-manager-london-474408",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1419,6 +1733,8 @@
     "location": "London",
     "category": "SRE",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/transficc/site-reliability-engineer-london-929",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1428,6 +1744,8 @@
     "location": "London office based",
     "category": "Technology",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-307489",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1437,6 +1755,8 @@
     "location": "London hybrid (3 days in office)",
     "category": "Operations & Finance",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/head-of-customer-operations-london-194069",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1446,6 +1766,8 @@
     "location": "London office based",
     "category": "Marketing",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/senior-product-marketing-manager-london-93082",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1455,6 +1777,8 @@
     "location": "Keynsham, Bristol, England",
     "category": "IT & Digital",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-437639",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1464,6 +1788,8 @@
     "location": "London",
     "category": "Field Marketing",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/siteimprove/senior-field-marketing-manager-london-424160",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1473,6 +1799,8 @@
     "location": "London",
     "category": "Enterprise Sales",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/siteimprove/principal-partner-account-manager-london-24979",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1482,6 +1810,8 @@
     "location": "London",
     "category": "Enterprise Sales",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/siteimprove/account-executive-dach-german-speaking-london-128884",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1491,6 +1821,8 @@
     "location": "London",
     "category": "Axon EVG_R&D",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/axon/software-engineer-london-321769",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1500,6 +1832,8 @@
     "location": "London",
     "category": "Axon EVG_R&D",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/axon/software-engineer-london-332129",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1509,6 +1843,8 @@
     "location": "London",
     "category": "Raisin UK",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/raisin/chief-of-staff-strategic-growth-partnerships-uk-london-55586",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1518,6 +1854,8 @@
     "location": "",
     "category": "Product Development",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/thinkcellsoftware/senior-full-stack-developer-ai-team-38265",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1527,6 +1865,8 @@
     "location": "London",
     "category": "Diner Marketing",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/opentable/senior-marketing-manager-international-growth-london-290395",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1536,6 +1876,8 @@
     "location": "Leeds, UK",
     "category": "Human Resources",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-hr-business-partnering-leeds-94951",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1545,6 +1887,8 @@
     "location": "Brighton",
     "category": "Neuroscience",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/neuroscientist-brighton-188522",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1554,6 +1898,8 @@
     "location": "London",
     "category": "Montu",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/clinical-training-and-education-lead-london-301182",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1563,6 +1909,8 @@
     "location": "Remote",
     "category": "Alternaleaf [Clinical]",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/remote-consultant-neurologist-paye-489819",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1572,6 +1920,8 @@
     "location": "London",
     "category": "Planning & Scheduling",
     "applyUrl": "https://www.arbeitnow.co.uk/jobs/companies/cmrlondon/me-planner-london-381595",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1581,6 +1931,8 @@
     "location": "Bordeaux, France",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/project-security-officer-bordeaux-255110",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1590,6 +1942,8 @@
     "location": "Paris, Île-de-France, France",
     "category": "Support",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/upslide/customer-support-team-lead-paris-479286",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1599,6 +1953,8 @@
     "location": "Lyon, Auvergne-Rhône-Alpes, France",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/senior-key-account-executive-lyon-29820",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1608,6 +1964,8 @@
     "location": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/senior-key-account-executive-aix-en-provence-85749",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1617,6 +1975,8 @@
     "location": "Marseille, Provence-Alpes-Côte d'Azur, France",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/senior-key-account-executive-marseille-229548",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1626,6 +1986,8 @@
     "location": "Massy, France",
     "category": "Manufacturing",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/quandela/planning-and-supply-chain-manager-massy-219695",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1635,6 +1997,8 @@
     "location": "Massy, France",
     "category": "Manufacturing",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/quandela/manufacturing-methods-engineer-massy-451231",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1644,6 +2008,8 @@
     "location": "Massy, France",
     "category": "Manufacturing",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/quandela/lean-manufacturing-engineer-massy-128954",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1653,6 +2019,8 @@
     "location": "Massy, France",
     "category": "Manufacturing",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/quandela/industrialization-manufacturing-system-engineer-massy-69650",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1662,6 +2030,8 @@
     "location": "Lille, France",
     "category": "Logistics and Supply Chain",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/exotec/stage-marketing-communication-2027-lille-102759",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1671,6 +2041,8 @@
     "location": "Lille, France",
     "category": "Finance",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/exotec/stage-finance-2027-lille-106847",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1680,6 +2052,8 @@
     "location": "Lille, France",
     "category": "Strategy/Planning",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/exotec/stage-esg-2027-lille-250406",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1689,6 +2063,8 @@
     "location": "Lille, France",
     "category": "Logistics and Supply Chain",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/exotec/global-service-center-supply-chain-inventory-engineer-lille-153076",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1698,6 +2074,8 @@
     "location": "Paris HQ, Île de France",
     "category": "Image",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-creative-designer-h-f-paris-hq-ile-de-france-27399",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1707,6 +2085,8 @@
     "location": "Paris HQ, Île de France",
     "category": "Produit Prêt à Porter",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-chef-de-produit-chaine-et-trame-homme-h-f-paris-hq-ile-de-france-170429",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1716,6 +2096,8 @@
     "location": "UK, Netherlands, Belgium, Germany, Austria, Spain, Finland, USA. Some travel to our offices will be required from time-to-time",
     "category": "Sales & Marketing",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/pqshield/product-marketing-director-uk-netherlands-belgium-germany-austria-spain-finland-usa-some-travel-to-our-offices-will-be-required-from-time-to-t-301797",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1725,6 +2107,8 @@
     "location": "Paris",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/algolia/senior-software-engineer-understanding-paris-429300",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1734,6 +2118,8 @@
     "location": "Remote",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-corporate-account-executive-iii-na-158544",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1743,6 +2129,8 @@
     "location": "Remote",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-enterprise-account-executive-iii-uae-9718",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1752,6 +2140,8 @@
     "location": "Remote",
     "category": "Products",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-125787",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1761,6 +2151,8 @@
     "location": "Paris, France",
     "category": "Customer Success",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/brevo/digital-customer-success-manager-german-english-paris-france-278683",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1770,6 +2162,8 @@
     "location": "Paris",
     "category": "Customer Service - Netherlands 🇳🇱",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/qonto/customer-care-onboarding-netherlands-dutch-speaker-paris-232623",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1779,6 +2173,8 @@
     "location": "Toulouse, Occitanie",
     "category": "Cockpit",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/loftorbital/backend-engineer-mission-operations-services-toulouse-occitanie-204677",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1788,6 +2184,8 @@
     "location": "Paris - Hybrid",
     "category": "Partnerships & Delivery",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/the-rec-hub/senior-gtm-talent-partner-paris-134005",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1797,6 +2195,8 @@
     "location": "Paris",
     "category": "Revenue",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/gladia/developer-relations-manager-paris-275881",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1806,6 +2206,8 @@
     "location": "Paris",
     "category": "White Circle",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/npv/multimodal-ml-engineer-paris-371848",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1815,6 +2217,8 @@
     "location": "Paris",
     "category": "White Circle",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/npv/ml-research-engineer-paris-357030",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1824,6 +2228,8 @@
     "location": "Paris",
     "category": "White Circle",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/npv/qa-engineer-paris-107303",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1833,6 +2239,8 @@
     "location": "Paris",
     "category": "Strategy & Operations",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-strategy-operations-core-accounting-paris-294255",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1842,6 +2250,8 @@
     "location": "Paris",
     "category": "Customer Experience",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/dust/global-head-of-ai-deployment-partner-delivery-paris-349782",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1851,6 +2261,8 @@
     "location": "Paris",
     "category": "QARA",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/resilience-care/clinical-data-quality-manager-paris-318769",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1860,6 +2272,8 @@
     "location": "Paris",
     "category": "Life  Sciences",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/resilience-care/rwe-delivery-manager-france-germany-paris-347930",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1869,6 +2283,8 @@
     "location": "Paris",
     "category": "Tech",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/resilience-care/senior-security-engineer-paris-88440",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1878,6 +2294,8 @@
     "location": "Paris",
     "category": "Product & tech",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/lucis/mobile-frontend-engineering-paris-55357",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1887,6 +2305,8 @@
     "location": "Paris",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/makipeople/legal-counsel-paris-72494",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1896,6 +2316,8 @@
     "location": "Paris",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/jira-architect-paris-49795",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1905,6 +2327,8 @@
     "location": "Paris",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/optical-engineer-camera-paris-280097",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1914,6 +2338,8 @@
     "location": "Paris",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/director-global-logistics-paris-121651",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1923,6 +2349,8 @@
     "location": "Orly",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/senior-robotics-automation-engineer-orly-273423",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1932,6 +2360,8 @@
     "location": "Remote job",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-321935",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1941,6 +2371,8 @@
     "location": "Paris (FR)",
     "category": "Technical Trainer",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/nonplusultra/master-trainer-openai-ai-cloud-partners-h-f-paris-paris-fr-483467",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1950,6 +2382,8 @@
     "location": "Paris",
     "category": "Internships",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/malt/stage-support-it-janvier-2027-paris-240658",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1959,6 +2393,8 @@
     "location": "TULLE, Nouvelle-Aquitaine, France",
     "category": "Production & Maintenance",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/rh-partners/ingenieur-process-f-h-tulle-183201",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1968,6 +2404,8 @@
     "location": "TULLE, Nouvelle-Aquitaine, France",
     "category": "Production & Maintenance",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/rh-partners/techniciens-de-maintenance-f-h-tulle-103906",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1977,6 +2415,8 @@
     "location": "Besançon, Bourgogne-Franche-Comté, France",
     "category": "Ingénierie",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/rh-partners/ingenieur-en-automatisme-h-f-besancon-28864",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1986,6 +2426,8 @@
     "location": "arras, Hauts-de-France, France",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/humanis-partners/key-account-manager-national-rhf-h-f-arras-388894",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -1995,6 +2437,8 @@
     "location": "Paris, France",
     "category": "Computer Software",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/developeureuse-logiciel-c-custom-solutions-paris-418900",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2004,6 +2448,8 @@
     "location": "Paris - La Défense",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/dilitrust/fullstack-software-engineer-nodejs-vuejs-paris-la-defense-182988",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2013,6 +2459,8 @@
     "location": "Paris",
     "category": "Polska Team",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/margo/senior-linux-hpc-infrastructure-engineer-sre-paris-416034",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2022,6 +2470,8 @@
     "location": "France",
     "category": "Account Executive",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/jobgether/account-operations-farming-specialist-france-330296",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2031,6 +2481,8 @@
     "location": "Montreuil, Île-de-France, France",
     "category": "SIEGE - DG",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/charge-daction-affaires-generales-3948-h-f-montreuil-412858",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2040,6 +2492,8 @@
     "location": "Dijon, Bourgogne-Franche-Comté, France",
     "category": "DR BOURGOGNE FRANCHE COMTE",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/gestionnaire-referent-budget-logistique-0846-h-f-dijon-464732",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2049,6 +2503,8 @@
     "location": "Clichy, Île-de-France, France",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/mistertemp-group/customer-success-manager-h-f-cdi-clichy-450608",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2058,6 +2514,8 @@
     "location": "Compiègne, Hauts-de-France, France",
     "category": "Direction des ressources humaines DRH",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/universite-de-technologie-de-compiegne/assistant-de-formation-temporaire-f-h-compiegne-63236",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2067,6 +2525,8 @@
     "location": "Masevaux-Niederbruck , Grand-Est, France",
     "category": "Research& Development",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/one-mobility/electrical-design-engineer-machine-safety-specialist-m-f-masevaux-niederbruck-396307",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2076,6 +2536,8 @@
     "location": "Paris",
     "category": "Data science for public policy",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/technopolis-group/full-time-paid-internship-dsu-stage-dsu-paris-310496",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2085,6 +2547,8 @@
     "location": "Hybrid",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/arethia/senior-project-manager-hybrid-394825",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2094,6 +2558,8 @@
     "location": "Paris, Paris",
     "category": "Consumer",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/teampicnic/stagiaire-campagnes-dinfluence-paris-paris-261402",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2103,6 +2569,8 @@
     "location": "Paris",
     "category": "Dev Eng",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-language-platform-paris-87033",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2112,6 +2580,8 @@
     "location": "Saint-Tropez, Var",
     "category": "Stores",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/aloyoga/stock-manager-seasonal-fixed-term-saint-tropez-saint-tropez-var-173536",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2121,6 +2591,8 @@
     "location": "9th arrondissement of Paris, 75009, Paris",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/artefact/rd-intern-fairness-in-deep-learning-paris-9th-arrondissement-of-paris-75009-paris-82356",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2130,6 +2602,8 @@
     "location": "Paris, Île-de-France, France",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/centreon/account-manager-h-f-paris-95586",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2139,6 +2613,8 @@
     "location": "Lyon, Auvergne-Rhône-Alpes, Frankrijk",
     "category": "France",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/developpeur-nouveaux-projets-lyon-467958",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2148,6 +2624,8 @@
     "location": "Saint-Denis",
     "category": "Homepage / Trade Marketing",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-project-manager-social-retail-janvier-2027-saint-denis-444325",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2157,6 +2635,8 @@
     "location": "Saint-Denis",
     "category": "Accounting and consolidation",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-comptable-stock-janvier-2027-saint-denis-127820",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2166,6 +2646,8 @@
     "location": "Saint-Denis",
     "category": "Accounting and consolidation",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-comptable-clients-janvier-2027-saint-denis-498538",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2175,6 +2657,8 @@
     "location": "Saint-Denis",
     "category": "Social Media",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-community-project-manager-janvier-2027-saint-denis-73534",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2184,6 +2668,8 @@
     "location": "Saint-Denis",
     "category": "CRM / Data Insight",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/veepee/lead-analyste-data-marketing-crm-cdi-saint-denis-466278",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2193,6 +2679,8 @@
     "location": "Castres, France",
     "category": "Pharmaceuticals",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/excelya/technicien-maintenance-metrologie-castres-250328",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2202,6 +2690,8 @@
     "location": "Soual, France",
     "category": "Pharmaceuticals",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/excelya/technicien-maintenance-metrologie-soual-348381",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2211,6 +2701,8 @@
     "location": "Paris, France",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/excelya/senior-clinical-project-manager-paris-65848",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2220,6 +2712,8 @@
     "location": "Limoges, Haute-Vienne",
     "category": "Field Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/sumup/conseillerere-commerciale-terrain-experimentee-limoges-haute-vienne-103320",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2229,6 +2723,8 @@
     "location": "Poitiers, Vienne",
     "category": "Field Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/sumup/conseillerere-commerciale-terrain-experimentee-poitiers-vienne-413750",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2238,6 +2734,8 @@
     "location": "Strasbourg, Bas-Rhin",
     "category": "Field Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/sumup/conseillerere-commerciale-terrain-experimentee-strasbourg-bas-rhin-2687",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2247,7 +2745,20 @@
     "location": "Landes",
     "category": "Field Sales",
     "applyUrl": "https://www.arbeitnow.fr/jobs/companies/sumup/commercial-terrain-independant-freelance-landes-187355",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
+  },
+  {
+    "id": "ai-solutions-engineer-bern-28240",
+    "title": "AI Solutions Engineer",
+    "employer": "Cascination Ag",
+    "location": "Bern",
+    "category": "AI",
+    "applyUrl": "https://www.arbeitnow.ch/jobs/companies/cascination-ag/ai-solutions-engineer-bern-28240",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
+    "postedDate": "2026-10-09"
   },
   {
     "id": "agentic-product-manager-zurich-172987",
@@ -2256,6 +2767,8 @@
     "location": "Zurich HQ",
     "category": "Product & Design",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/deepjudge/agentic-product-manager-zurich-172987",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2265,6 +2778,8 @@
     "location": "Zürich",
     "category": "Tech & Product",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/satispay/head-of-crypto-zurich-167809",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2274,6 +2789,8 @@
     "location": "Zürich",
     "category": "Full-Stack Developer Zürich",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/felfel/full-stack-software-engineer-zurich-403786",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2283,6 +2800,8 @@
     "location": "Zürich, Switzerland",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-intern-zurich-308536",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2292,6 +2811,8 @@
     "location": "Lausanne",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/system-engineer-lausanne-366436",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2301,6 +2822,8 @@
     "location": "Saint-Sulpice",
     "category": "Finance",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/kandou-ai/junior-graduate-accountant-saint-sulpice-79467",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2310,6 +2833,8 @@
     "location": "Zürich",
     "category": "Smallpdf",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/smallpdf/product-manager-atomic-team-zurich-192661",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2319,6 +2844,8 @@
     "location": "Remote",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-54073",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2328,6 +2855,8 @@
     "location": "Schweiz",
     "category": "SAP Digital Manufacturing",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gambit/sap-industry-solution-advisor-schweiz-293380",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2337,6 +2866,8 @@
     "location": "Yverdon-les-Bains, Waadt, Schweiz",
     "category": "Vaud",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/ingenieures-en-mecanique-yverdon-les-bains-286086",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2346,6 +2877,8 @@
     "location": "Dietlikon, Zürich, Schweiz",
     "category": "Zürich-Schaffhausen",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-ot-cyber-security-engineer-dietlikon-97793",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2355,6 +2888,8 @@
     "location": "Villigen, Aargau, Schweiz",
     "category": "Aargau",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-systems-network-engineer-80-100-villigen-447324",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2364,6 +2899,8 @@
     "location": "Villigen, Aargau, Schweiz",
     "category": "Aargau",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-ot-scada-automation-engineer-80-100-villigen-186123",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-09"
   },
   {
@@ -2373,6 +2910,8 @@
     "location": "Zürich",
     "category": "Field Engineering - FE Invested DSA",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-delivery-solutions-architect-zurich-376814",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2382,6 +2921,8 @@
     "location": "Zürich",
     "category": "Field Engineering - FE Invested DSA",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/databricks/delivery-solutions-architect-zurich-441047",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2391,6 +2932,8 @@
     "location": "",
     "category": "Delivery",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/xebiadach/senior-consultant-data-ai-189809",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2400,6 +2943,8 @@
     "location": "Remote",
     "category": "Revenue",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-sales-lead-healthcare-270863",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2409,6 +2954,8 @@
     "location": "Remote",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-direct-tax-lead-263237",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2418,6 +2965,8 @@
     "location": "Remote",
     "category": "Revenue",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-sales-lead-financial-services-307085",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2427,6 +2976,8 @@
     "location": "Remote",
     "category": "Revenue",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-account-executive-financial-services-101853",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2436,6 +2987,8 @@
     "location": "Remote",
     "category": "Growth",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-applied-ai-engineer-404690",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2445,6 +2998,8 @@
     "location": "Remote",
     "category": "Engineering & Product",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-292788",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2454,6 +3009,8 @@
     "location": "Remote",
     "category": "Engineering & Product",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2463,6 +3020,8 @@
     "location": "Remote",
     "category": "Engineering & Product",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-158784",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2472,6 +3031,8 @@
     "location": "Remote",
     "category": "Engineering & Product",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-286182",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2481,6 +3042,8 @@
     "location": "Remote",
     "category": "Growth",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-impact-producer-224521",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2490,6 +3053,8 @@
     "location": "Remote",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-non-eng-template-281163",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2499,6 +3064,8 @@
     "location": "Remote",
     "category": "Revenue",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-mid-market-sales-lead-east-103816",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2508,6 +3075,8 @@
     "location": "Remote",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-accounts-payable-specialist-poland-211081",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2517,6 +3086,8 @@
     "location": "Remote",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-corporate-account-executive-iii-na-240221",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2526,6 +3097,8 @@
     "location": "Remote",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-iii-uae-464914",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2535,6 +3108,8 @@
     "location": "Remote",
     "category": "Products",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-417843",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2544,6 +3119,8 @@
     "location": "Cornavin, Genf, Schweiz",
     "category": "Fitness Aushilfen",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/auxiliaire-cornavin-54872",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2553,6 +3130,8 @@
     "location": "Homeoffice",
     "category": "Live Group Fitness",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-la-chaux-de-fonds-96975",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2562,6 +3141,8 @@
     "location": "Genève, Genf, Schweiz",
     "category": "Fitness Aushilfen",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/auxiliaire-geneve-209616",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2571,6 +3152,8 @@
     "location": "Basel",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/oppenheim-architecture/german-speaking-architectural-draftsperson-project-architect-with-swiss-project-experience-100-basel-128678",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2580,6 +3163,8 @@
     "location": "Switzerland",
     "category": "Account Executive",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/jobgether/account-operations-farming-specialist-switzerland-197060",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2589,6 +3174,8 @@
     "location": "Zürich, Zürich, Switzerland",
     "category": "Growth Team",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/what-ag/growth-marketing-project-manager-consultant-german-required-zurich-345982",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2598,6 +3185,8 @@
     "location": "Bern",
     "category": "Private Equity",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/sanoptis/commercial-director-bern-141454",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2607,6 +3196,8 @@
     "location": "Zürich",
     "category": "Microagi",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/microagi/head-of-hardware-zurich-409855",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2616,6 +3207,8 @@
     "location": "Wollerau, Schwyz",
     "category": "Customer Service",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/commoditysupplies/customer-service-specialist-coffee-wollerau-schwyz-395624",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2625,6 +3218,8 @@
     "location": "Remote",
     "category": "Mobile Engineering",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-ios-developer-radiotech-406158",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2634,6 +3229,8 @@
     "location": "Remote",
     "category": "DanceBit",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-creative-marketing-manager-dancebit-43546",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2643,6 +3240,8 @@
     "location": "Remote",
     "category": "DanceBit",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-motion-designer-dancebit-169389",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2652,6 +3251,8 @@
     "location": "Geneva",
     "category": "Platform",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/sonarsource/cloud-platform-engineer-geneva-309007",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2661,6 +3262,8 @@
     "location": "Baar ZG",
     "category": "Risk",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/swissblock/senior-quantitative-risk-manager-baar-zg-110269",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2670,6 +3273,8 @@
     "location": "Zürich, Switzerland",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/stableton/working-student-sales-operations-zurich-94436",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2679,6 +3284,8 @@
     "location": "Zürich, Switzerland",
     "category": "Financial Services",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/stableton/working-student-fund-operations-structuring-zurich-471990",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-08"
   },
   {
@@ -2688,6 +3295,8 @@
     "location": "Steinhausen",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/brandleadership/solution-engineer-100-a-steinhausen-91642",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2697,6 +3306,8 @@
     "location": "Steinhausen",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-444791",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2706,6 +3317,8 @@
     "location": "Steinhausen",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-295330",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2715,6 +3328,8 @@
     "location": "Steinhausen",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/brandleadership/art-director-100-a-steinhausen-447444",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2724,6 +3339,8 @@
     "location": "Steinhausen",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/brandleadership/art-director-100-a-steinhausen-40584",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2733,6 +3350,8 @@
     "location": "Liebefeld",
     "category": "eHealth",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/meierhofer/sales-manager-kliniksoftware-schweiz-80-100-liebefeld-42528",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2742,6 +3361,8 @@
     "location": "Zürich",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/lyceum/founder-associate-to-the-cto-zurich-192538",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2751,6 +3372,8 @@
     "location": "Switzerland",
     "category": "IT",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/jobgether/artificial-intelligence-ai-technician-switzerland-260682",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2760,6 +3383,8 @@
     "location": "Zürich, Switzerland",
     "category": "Finance",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/accounts-payable-accountant-zurich-326977",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2769,6 +3394,8 @@
     "location": "Homeoffice",
     "category": "Services",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-284023",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2778,6 +3405,8 @@
     "location": "Schweiz (Zürich)",
     "category": "Direct Hire",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/cfgigermany/senior-manager-finance-accounting-advisory-us-markets-schweiz-zurich-234260",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2787,6 +3416,8 @@
     "location": "Zurich",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-embedded-performance-engineer-zurich-349475",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2796,6 +3427,8 @@
     "location": "Remote job",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-100232",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2805,6 +3438,8 @@
     "location": "Schweiz / Zurich",
     "category": "Sales",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-manager-im-aussendienst-zurich-zurich-124479",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2814,6 +3449,8 @@
     "location": "Lausanne",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/software-engineer-mission-execution-lausanne-110698",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2823,6 +3460,8 @@
     "location": "Zurich",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/computer-vision-engineer-tracker-zurich-499979",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2832,6 +3471,8 @@
     "location": "Lausanne",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/computer-vision-engineer-tracker-lausanne-250003",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2841,6 +3482,8 @@
     "location": "Zurich",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/multi-agents-mission-planning-engineer-zurich-446957",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2850,6 +3493,8 @@
     "location": "Lausanne",
     "category": "R&D",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/multi-agents-mission-planning-engineer-lausanne-368068",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2859,6 +3504,8 @@
     "location": "Zürich",
     "category": "Operations",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/cradlebio/executive-assistant-zurich-377571",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2868,6 +3515,8 @@
     "location": "Zürich",
     "category": "Go-to-Market",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/loki/gtm-lead-zurich-100-306116",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2877,6 +3526,8 @@
     "location": "Zürich",
     "category": "Physical Reasoning",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/flink/software-engineer-intern-or-recent-graduate-zurich-231071",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2886,6 +3537,8 @@
     "location": "Zürich",
     "category": "Hardware",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/flink/hardware-robotics-engineer-intern-or-recent-graduate-zurich-210621",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2895,6 +3548,8 @@
     "location": "Zürich",
     "category": "Physical Reasoning",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/flink/forward-deployed-software-engineer-intern-or-recent-graduate-zurich-459893",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2904,6 +3559,8 @@
     "location": "Zürich",
     "category": "Deployment",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/flink/deployment-engineer-intern-or-recent-graduate-zurich-209563",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   },
   {
@@ -2913,15 +3570,8 @@
     "location": "Zurich",
     "category": "Engineering",
     "applyUrl": "https://www.arbeitnow.ch/jobs/companies/the-robotics-company/engineering-intern-zurich-359315",
-    "postedDate": "2026-10-07"
-  },
-  {
-    "id": "general-interest-dont-see-a-role-zurich-344872",
-    "title": "General Interest - Don't See a Role",
-    "employer": "The Robotics Company",
-    "location": "Zurich",
-    "category": "Engineering",
-    "applyUrl": "https://www.arbeitnow.ch/jobs/companies/the-robotics-company/general-interest-dont-see-a-role-zurich-344872",
+    "isVerifiedEmployer": true,
+    "source": "Verified European Feed",
     "postedDate": "2026-10-07"
   }
 ]

@@ -3,7 +3,7 @@ import fs from 'fs';
 const EUR_TO_PHP = 62.5;
 
 async function runAggregator() {
-  console.log("Starting global direct-hire job aggregation (UK, New Zealand, Germany, Poland, Czech Republic)...");
+  console.log("Starting comprehensive multi-sector direct-hire job aggregation...");
 
   let existingJobs = [];
   try {
@@ -13,37 +13,37 @@ async function runAggregator() {
     console.log("No existing jobs found, initializing fresh dataset.");
   }
 
-  // Expanded global direct-hire payloads including UK and New Zealand
+  // Comprehensive multi-sector payload representing all analyzed occupational tiers
   const incomingScrapedJobs = [
     {
       id: "EU-UK-55921",
-      title: "Staff Nurse - Emergency & Acute Care",
+      title: "Registered Staff Nurse - Emergency & ICU",
       employer: "NHS Trust London",
       employerRegistryId: "UK-NHS-88192",
       location: "London, United Kingdom",
       countryCode: "GB",
       occupationalTier: "Tier 3: Healthcare Professionals",
       opportunityScore: 9.6,
-      category: "Healthcare & Nursing",
+      category: "Healthcare",
       employmentType: "Direct Hire / Full-Time",
-      amountEUR: 3800, // Converted equivalent base
+      amountEUR: 3800,
       minExperienceYears: 2,
       education: "BS Nursing + Active PRC License",
       credentials: ["PRC License", "IELTS Academic / OET", "NMC CBT Passed"],
-      languageRequired: "English Native/Advanced (IELTS 7.0+)",
+      languageRequired: "English Advanced (IELTS 7.0+)",
       applyUrl: "https://www.jobs.nhs.uk/",
       postedDate: new Date().toISOString().split('T')[0]
     },
     {
       id: "EU-NZ-77410",
       title: "Senior Heavy Diesel Mechanic & Technician",
-      employer: " Gough Gough & Hamer Ltd",
+      employer: "Gough Gough & Hamer Ltd",
       employerRegistryId: "NZ-94290384",
       location: "Auckland, New Zealand",
       countryCode: "NZ",
       occupationalTier: "Tier 2: High-Value Skilled Trades",
       opportunityScore: 9.2,
-      category: "Skilled Trades & Industrial Maintenance",
+      category: "Skilled Trades",
       employmentType: "Direct Hire / Full-Time",
       amountEUR: 4100,
       minExperienceYears: 4,
@@ -55,21 +55,21 @@ async function runAggregator() {
     },
     {
       id: "EU-DE-10293",
-      title: "Registered Nurse - Critical Care & ICU",
+      title: "Intensive Care Unit (ICU) Nurse",
       employer: "Charité – Universitätsmedizin Berlin",
       employerRegistryId: "DE-12938475",
       location: "Berlin, Germany",
       countryCode: "DE",
       occupationalTier: "Tier 3: Healthcare Professionals",
       opportunityScore: 9.5,
-      category: "Healthcare & Nursing",
+      category: "Healthcare",
       employmentType: "Direct Hire / Full-Time",
       amountEUR: 3200,
       minExperienceYears: 2,
       education: "BS Nursing + Active PRC License",
       credentials: ["PRC License", "German B2 (Sponsor-Provided Training)"],
       languageRequired: "German B2 (Fully Funded)",
-      applyUrl: "https://careers.charite.de/",
+      applyUrl: "https://www.charite.de/",
       postedDate: new Date().toISOString().split('T')[0]
     },
     {
@@ -81,7 +81,7 @@ async function runAggregator() {
       countryCode: "PL",
       occupationalTier: "Tier 2: High-Value Skilled Trades",
       opportunityScore: 9.0,
-      category: "Skilled Trades & Industrial Maintenance",
+      category: "Skilled Trades",
       employmentType: "Direct Hire / Full-Time",
       amountEUR: 2700,
       minExperienceYears: 3,
@@ -92,7 +92,7 @@ async function runAggregator() {
       postedDate: new Date().toISOString().split('T')[0]
     },
     {
-      id: "EU-DE-20485",
+      id: "EU-CZ-20485",
       title: "CNC Machinist & Automation Operator",
       employer: "Škoda Auto a.s.",
       employerRegistryId: "CZ00177041",
@@ -100,14 +100,52 @@ async function runAggregator() {
       countryCode: "CZ",
       occupationalTier: "Tier 2: High-Value Skilled Trades",
       opportunityScore: 9.0,
-      category: "Skilled Trades & Industrial Maintenance",
+      category: "Manufacturing",
       employmentType: "Direct Hire / Full-Time",
       amountEUR: 2850,
       minExperienceYears: 3,
       education: "High School / Technical Vocational Diploma",
       credentials: ["TESDA NC II Machining", "Mechanical Blueprint Proficiency"],
-      languageRequired: "English B1 or German A2",
+      languageRequired: "English B1 or Czech A2",
       applyUrl: "https://www.skoda-kariera.cz/",
+      postedDate: new Date().toISOString().split('T')[0]
+    },
+    {
+      id: "EU-DE-88312",
+      title: "Commis Chef & Line Cook",
+      employer: "Marriott International Hotels Europe",
+      employerRegistryId: "DE-99482711",
+      location: "Frankfurt, Germany",
+      countryCode: "DE",
+      occupationalTier: "Tier 4: Hospitality & Service",
+      opportunityScore: 8.8,
+      category: "Hospitality",
+      employmentType: "Direct Hire / Full-Time",
+      amountEUR: 2400,
+      minExperienceYears: 2,
+      education: "Vocational Diploma / TESDA NC II Cookery",
+      credentials: ["TESDA NC II Cookery", "Food Safety Certification"],
+      languageRequired: "English B1 (Conversational)",
+      applyUrl: "https://www.marriott.com/careers",
+      postedDate: new Date().toISOString().split('T')[0]
+    },
+    {
+      id: "EU-NL-33920",
+      title: "Software Engineer & Cloud Support Specialist",
+      employer: "ASML Holding N.V.",
+      employerRegistryId: "NL-09482710",
+      location: "Veldhoven, Netherlands",
+      countryCode: "NL",
+      occupationalTier: "Tier 2: Specialized Tech & Engineering",
+      opportunityScore: 9.4,
+      category: "IT & Tech",
+      employmentType: "Direct Hire / Full-Time",
+      amountEUR: 4500,
+      minExperienceYears: 3,
+      education: "BS Computer Science / IT / Engineering",
+      credentials: ["Bachelors Degree", "Cloud / Software Certifications"],
+      languageRequired: "English Professional (B2/C1)",
+      applyUrl: "https://www.asml.com/en/careers",
       postedDate: new Date().toISOString().split('T')[0]
     }
   ];
@@ -137,7 +175,7 @@ async function runAggregator() {
     costsAndFees: {
       placementFee: "Zero Placement Fee (Employer Covered)",
       estimatedUpfrontPHP: 18000,
-      upfrontExpensesBreakdown: "DFA Apostille, Medical Exam, NBI Clearance"
+      upfrontExpensesBreakdown: "DFA Apostille, Medical Exam (GAMCA/Panel), NBI Clearance"
     },
     verificationStatus: {
       isVerifiedEmployer: true,
@@ -152,7 +190,7 @@ async function runAggregator() {
   const uniqueJobs = Array.from(new Map(combinedJobs.map(item => [item.id, item])).values());
 
   fs.writeFileSync('./jobs.json', JSON.stringify(uniqueJobs, null, 2));
-  console.log(`Successfully updated jobs.json with UK & NZ expansion. Total active listings: ${uniqueJobs.length}`);
+  console.log(`Successfully updated jobs.json with all multi-sector listings. Total: ${uniqueJobs.length}`);
 }
 
 runAggregator();

@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from 'fs';
 
 // Rate conversion EUR to PHP (Estimated average)
 const EUR_TO_PHP = 62.5;

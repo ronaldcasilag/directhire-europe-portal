@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DirectHire Europe — Verified Employer Portal</title>
+    <style>
+        :root {
+            --primary: #0052cc;
+            --bg: #f4f5f7;
+            --card-bg: #ffffff;
+            --text: #172b4d;
+            --badge-green: #e3fcef;
+            --badge-green-text: #006644;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 { margin-bottom: 5px; }
+        p.subtitle { color: #5e6c84; margin-top: 0; }
+        .controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        input, select {
+            padding: 12px;
+            border: 1px solid #dfe1e6;
+            border-radius: 6px;
+            font-size: 16px;
+        }
+        input[type="text"] { flex: 1; }
+        .job-card {
+            background: var(--card-bg);
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .job-info h3 { margin: 0 0 8px 0; color: var(--primary); }
+        .job-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 14px;
+            color: #5e6c84;
+        }
+        .badge {
+            background: var(--badge-green);
+            color: var(--badge-green-text);
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        .apply-btn {
+            background: var(--primary);
+            color: white;
+            text-decoration: none;
+            padding: 10px 18px;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+        .apply-btn:hover { opacity: 0.9; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>DirectHire Europe Portal</h1>
+        <p class="subtitle">Verified Direct-Hire Vacancies Sourced from Official EU Registries & Corporate ATS Feeds</p>
+    </header>
+
+    <div class="controls">
+        <input type="text" id="searchInput" placeholder="Search by job title or keyword..." oninput="filterJobs()">
+        <select id="sourceFilter" onchange="filterJobs()">
+            <option value="all">All Data Sources</option>
+            <option value="EURES Official Portal">EURES Mobility Portal</option>
+            <option value="Verified European Feed">Verified Corporate ATS</option>
+        </select>
+    </div>
+
+    <div id="jobList">Loading verified openings...</div>
+</div>
+
+<script>
+    let allJobs = [];
+
+    async function loadJobs() {
+        try {
+            const res = await fetch('jobs.json');
+            allJobs = await res.json();
+            renderJobs(allJobs);
+        } catch (e) {
+            document.getElementById('jobList').innerHTML = '<p>Error loading jobs database.</p>';
+        }
+    }
+
+    function renderJobs(jobs) {
+        const container = document.getElementById('jobList');
+        if (jobs.length === 0) {
+            container.innerHTML = '<p>No matching direct-hire vacancies found.</p>';
+            return;
+        }
+
+        container.innerHTML = jobs.map(job => `
+            <div class="job-card">
+                <div class="job-info">
+                    <h3>${job.title} <span class="badge">Verified Direct Hire</span></h3>
+                    <div class="job-meta">
+                        <span><strong>Employer:</strong> ${job.employer}</span>
+                        <span><strong>Location:</strong> ${job.location}</span>
+                        <span><strong>Source:</strong> ${job.source || 'Verified Feed'}</span>
+                    </div>
+                </div>
+                <div>
+                    <a href="${job.applyUrl}" target="_blank" class="apply-btn">Apply Direct ↗</a>
+                </div>
+            </div>
+        `).join('');
+    }
+
+    function filterJobs() {
+        const query = document.getElementById('searchInput').value.toLowerCase();
+        const source = document.getElementById('sourceFilter').value;
+
+        const filtered = allJobs.filter(job => {
+            const matchesQuery = job.title.toLowerCase().includes(query) || 
+                                 job.employer.toLowerCase().includes(query) ||
+                                 job.location.toLowerCase().includes(query);
+            const matchesSource = source === 'all' || job.source === source;
+            return matchesQuery && matchesSource;
+        });
+
+        renderJobs(filtered);
+    }
+
+    loadJobs();
+</script>
+
+</body>
+</html>

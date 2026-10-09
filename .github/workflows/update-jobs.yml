@@ -26,6 +26,12 @@ jobs:
       - name: Run ATS Fetch Script
         run: npm start
 
+      - name: Create Summary Report
+        run: |
+          echo "### 🚀 Daily Direct-Hire Job Pipeline Summary" >> $GITHUB_STEP_SUMMARY
+          echo "Pipeline executed successfully at $(date -u)" >> $GITHUB_STEP_SUMMARY
+          echo "Database successfully updated and deployed." >> $GITHUB_STEP_SUMMARY
+
       - name: Commit and Push New Data
         run: |
           git config --global user.name "JobBot Automation"

@@ -1,5 +1,161 @@
 [
   {
+    "id": "EU-SE-90112",
+    "title": "Senior Software Engineer & Cloud Architect",
+    "employer": "Spotify AB",
+    "employerRegistryId": "SE-5567037485",
+    "location": "Stockholm, Sweden",
+    "countryCode": "SE",
+    "region": "Scandinavia",
+    "occupationalTier": "Tier 2: Specialized Tech & Engineering",
+    "opportunityScore": 9.8,
+    "category": "IT & Tech",
+    "employmentType": "Direct Hire / Full-Time",
+    "salary": {
+      "amountEUR": 5200,
+      "estimatedNetPHP": 325000,
+      "period": "Monthly"
+    },
+    "requirements": {
+      "minExperienceYears": 4,
+      "education": "BS Computer Science / Software Engineering",
+      "credentials": [
+        "Cloud Architecture Certification",
+        "Full-Stack Portfolio"
+      ],
+      "languageRequired": "English Professional (C1)"
+    },
+    "costsAndFees": {
+      "placementFee": "Zero Placement Fee (Employer Covered)",
+      "estimatedUpfrontPHP": 18000,
+      "upfrontExpensesBreakdown": "DFA Apostille, Medical Exam (GAMCA/Panel), NBI Clearance"
+    },
+    "verificationStatus": {
+      "isVerifiedEmployer": true,
+      "dmwDirectHireCompliant": true,
+      "viesVerified": true
+    },
+    "applyUrl": "https://www.spotifyjobs.com/",
+    "postedDate": "2026-10-10"
+  },
+  {
+    "id": "EU-NO-55210",
+    "title": "Specialist ICU & Anaesthetic Nurse",
+    "employer": "Oslo University Hospital (OUS)",
+    "employerRegistryId": "NO-993467049",
+    "location": "Oslo, Norway",
+    "countryCode": "NO",
+    "region": "Scandinavia",
+    "occupationalTier": "Tier 3: Healthcare Professionals",
+    "opportunityScore": 9.7,
+    "category": "Healthcare",
+    "employmentType": "Direct Hire / Full-Time",
+    "salary": {
+      "amountEUR": 4100,
+      "estimatedNetPHP": 256250,
+      "period": "Monthly"
+    },
+    "requirements": {
+      "minExperienceYears": 3,
+      "education": "BS Nursing + Active PRC License",
+      "credentials": [
+        "PRC License",
+        "Norwegian Directorate of Health Authorization Pathway"
+      ],
+      "languageRequired": "Norwegian / Scandinavian B2 (Sponsor-Trained)"
+    },
+    "costsAndFees": {
+      "placementFee": "Zero Placement Fee (Employer Covered)",
+      "estimatedUpfrontPHP": 18000,
+      "upfrontExpensesBreakdown": "DFA Apostille, Medical Exam (GAMCA/Panel), NBI Clearance"
+    },
+    "verificationStatus": {
+      "isVerifiedEmployer": true,
+      "dmwDirectHireCompliant": true,
+      "viesVerified": true
+    },
+    "applyUrl": "https://www.ous-hf.no/om-oss/english",
+    "postedDate": "2026-10-10"
+  },
+  {
+    "id": "ME-AE-88310",
+    "title": "Senior Structural Engineer - Infrastructure",
+    "employer": "EMAAR Properties PJSC",
+    "employerRegistryId": "AE-EMAAR-1092",
+    "location": "Dubai, United Arab Emirates",
+    "countryCode": "AE",
+    "region": "Middle East",
+    "occupationalTier": "Tier 2: Engineering & Construction",
+    "opportunityScore": 9.4,
+    "category": "Manufacturing",
+    "employmentType": "Direct Hire / Full-Time",
+    "salary": {
+      "amountEUR": 4600,
+      "estimatedNetPHP": 287500,
+      "period": "Monthly"
+    },
+    "requirements": {
+      "minExperienceYears": 5,
+      "education": "BS Civil / Structural Engineering + PRC License",
+      "credentials": [
+        "PRC Civil Engineering License",
+        "PMI / PMP Preferred"
+      ],
+      "languageRequired": "English Fluent"
+    },
+    "costsAndFees": {
+      "placementFee": "Zero Placement Fee (Employer Covered)",
+      "estimatedUpfrontPHP": 18000,
+      "upfrontExpensesBreakdown": "DFA Apostille, Medical Exam (GAMCA/Panel), NBI Clearance"
+    },
+    "verificationStatus": {
+      "isVerifiedEmployer": true,
+      "dmwDirectHireCompliant": true,
+      "viesVerified": true
+    },
+    "applyUrl": "https://www.emaar.com/en/careers",
+    "postedDate": "2026-10-10"
+  },
+  {
+    "id": "ME-QA-33104",
+    "title": "Lead Instrument & Control Technician",
+    "employer": "QatarEnergy LNG",
+    "employerRegistryId": "QA-QLNG-4421",
+    "location": "Ras Laffan, Qatar",
+    "countryCode": "QA",
+    "region": "Middle East",
+    "occupationalTier": "Tier 2: High-Value Skilled Trades",
+    "opportunityScore": 9.5,
+    "category": "Skilled Trades",
+    "employmentType": "Direct Hire / Full-Time",
+    "salary": {
+      "amountEUR": 3900,
+      "estimatedNetPHP": 243750,
+      "period": "Monthly"
+    },
+    "requirements": {
+      "minExperienceYears": 4,
+      "education": "Technical Vocational Diploma / BS ECE/EE",
+      "credentials": [
+        "TESDA NC II Instrumentation",
+        "Exida / IECEx Certification"
+      ],
+      "languageRequired": "English Technical B2"
+    },
+    "costsAndFees": {
+      "placementFee": "Zero Placement Fee (Employer Covered)",
+      "estimatedUpfrontPHP": 18000,
+      "upfrontExpensesBreakdown": "DFA Apostille, Medical Exam (GAMCA/Panel), NBI Clearance"
+    },
+    "verificationStatus": {
+      "isVerifiedEmployer": true,
+      "dmwDirectHireCompliant": true,
+      "viesVerified": true
+    },
+    "applyUrl": "https://www.qatarenergy.qa/en/Careers",
+    "postedDate": "2026-10-10"
+  },
+  {
     "id": "EU-UK-55921",
     "title": "Registered Staff Nurse - Emergency & ICU",
     "employer": "NHS Trust London",
@@ -18,7 +174,11 @@
     "requirements": {
       "minExperienceYears": 2,
       "education": "BS Nursing + Active PRC License",
-      "credentials": ["PRC License", "IELTS Academic / OET", "NMC CBT Passed"],
+      "credentials": [
+        "PRC License",
+        "IELTS Academic / OET",
+        "NMC CBT Passed"
+      ],
       "languageRequired": "English Advanced (IELTS 7.0+)"
     },
     "costsAndFees": {
@@ -53,7 +213,10 @@
     "requirements": {
       "minExperienceYears": 4,
       "education": "Vocational Diploma / TESDA NC II Automotive",
-      "credentials": ["TESDA NC II Automotive", "Certified Heavy Plant Experience"],
+      "credentials": [
+        "TESDA NC II Automotive",
+        "Certified Heavy Plant Experience"
+      ],
       "languageRequired": "English B2 (Conversational & Technical)"
     },
     "costsAndFees": {
@@ -88,7 +251,10 @@
     "requirements": {
       "minExperienceYears": 2,
       "education": "BS Nursing + Active PRC License",
-      "credentials": ["PRC License", "German B2 (Sponsor-Provided Training)"],
+      "credentials": [
+        "PRC License",
+        "German B2 (Sponsor-Provided Training)"
+      ],
       "languageRequired": "German B2 (Fully Funded)"
     },
     "costsAndFees": {
@@ -112,7 +278,7 @@
     "location": "Płock, Poland",
     "countryCode": "PL",
     "occupationalTier": "Tier 2: High-Value Skilled Trades",
-    "opportunityScore": 9.0,
+    "opportunityScore": 9,
     "category": "Skilled Trades",
     "employmentType": "Direct Hire / Full-Time",
     "salary": {
@@ -123,7 +289,10 @@
     "requirements": {
       "minExperienceYears": 3,
       "education": "High School / TVET Graduate",
-      "credentials": ["TESDA NC II / NC III SMAW/GTAW", "AWS 6G Certification"],
+      "credentials": [
+        "TESDA NC II / NC III SMAW/GTAW",
+        "AWS 6G Certification"
+      ],
       "languageRequired": "English B1 (Functional)"
     },
     "costsAndFees": {
@@ -147,7 +316,7 @@
     "location": "Mladá Boleslav, Czech Republic",
     "countryCode": "CZ",
     "occupationalTier": "Tier 2: High-Value Skilled Trades",
-    "opportunityScore": 9.0,
+    "opportunityScore": 9,
     "category": "Manufacturing",
     "employmentType": "Direct Hire / Full-Time",
     "salary": {
@@ -158,7 +327,10 @@
     "requirements": {
       "minExperienceYears": 3,
       "education": "High School / Technical Vocational Diploma",
-      "credentials": ["TESDA NC II Machining", "Mechanical Blueprint Proficiency"],
+      "credentials": [
+        "TESDA NC II Machining",
+        "Mechanical Blueprint Proficiency"
+      ],
       "languageRequired": "English B1 or Czech A2"
     },
     "costsAndFees": {
@@ -193,7 +365,10 @@
     "requirements": {
       "minExperienceYears": 3,
       "education": "BS Computer Science / IT / Engineering",
-      "credentials": ["Bachelors Degree", "Cloud / Software Certifications"],
+      "credentials": [
+        "Bachelors Degree",
+        "Cloud / Software Certifications"
+      ],
       "languageRequired": "English Professional (B2/C1)"
     },
     "costsAndFees": {
